@@ -1,0 +1,59 @@
+.background10 {
+    overflow: hidden;
+}
+
+@function random_range($min, $max) {
+    $rand: random();
+    $random_range: $min+floor($rand*(($max - $min )+1));
+    @return $random_range;
+}
+
+// .starshadow {
+//     filter: drop-shadow(0 0 10px #fff);
+
+// }
+
+.shootstar {
+    $total: 60;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    margin: auto;
+    background-image: radial-gradient(yellow, white 50%);
+    clip-path: polygon(50% 0%, 56.25% 37.5%, 75% 25%, 62.5% 43.75%, 100% 50%, 62.5% 56.25%, 75% 75%, 56.25% 62.5%, 50% 100%, 43.75% 62.5%, 25% 75%, 37.5% 56.25%, 0% 50%, 37.5% 43.75%, 25% 25%, 43.75% 37.5%);
+    filter: drop-shadow(0 0 10px #fff);
+
+
+    @for $i from 1 through $total {
+        $random-x: random_range(500000, 1000000)*0.0001vw;
+        $random-offset: random_range(10000, 400000)*0.0001vw;
+        // $random-start: random_range(0, 150)*0.1vh;
+        $random-x-end: $random-x+ $random-offset;
+        $random-x-end-yoyo: $random-x+($random-offset/2);
+        $random-yoyo-time: random_range(30000, 80000)/100000;
+        $random-yoyo-y: $random-yoyo-time*100vh;
+
+        $random-scale: random(20000)*0.0001;
+        $fall-duration: random_range(10, 15)*0.1s;
+        $fall-delay: random(60)*1s;
+
+
+        &:nth-child(#{$i}) {
+            opacity: 1;
+            transform: translate($random-x, -20px) scale($random-scale);
+            animation: shootstar-#{$i} $fall-duration ease-in $fall-delay infinite;
+        }
+
+        @keyframes shootstar-#{$i} {
+            #{percentage($random-yoyo-time)} {
+                transform: translate($random-x, -20px) scale($random-scale);
+            }
+
+            to {
+                transform: translate($random-offset, $random-yoyo-y);
+                opacity: random(10000)*0.001;
+            }
+
+        }
+    }
+}

@@ -1,0 +1,4972 @@
+.background4 {
+  overflow: hidden;
+}
+
+.rain6 {
+  position: absolute;
+  width: 1px;
+  height: 80px;
+  background: lightblue;
+  background-size: cover;
+  filter: drop-shadow(0 0 5px rgb(209, 241, 252));
+}
+.rain6:nth-child(1) {
+  opacity: 0.0492;
+  transform: translate(74.1383vw, -120px) scale(0.007);
+  -webkit-animation: rain6-1 1s linear 2.6s infinite;
+          animation: rain6-1 1s linear 2.6s infinite;
+}
+@-webkit-keyframes rain6-1 {
+  to {
+    transform: translate(74.1383vw, 100vh);
+  }
+}
+@keyframes rain6-1 {
+  to {
+    transform: translate(74.1383vw, 100vh);
+  }
+}
+.rain6:nth-child(2) {
+  opacity: 0.972;
+  transform: translate(63.5712vw, -120px) scale(0.006);
+  -webkit-animation: rain6-2 1s linear 3.5s infinite;
+          animation: rain6-2 1s linear 3.5s infinite;
+}
+@-webkit-keyframes rain6-2 {
+  to {
+    transform: translate(63.5712vw, 100vh);
+  }
+}
+@keyframes rain6-2 {
+  to {
+    transform: translate(63.5712vw, 100vh);
+  }
+}
+.rain6:nth-child(3) {
+  opacity: 0.7285;
+  transform: translate(3.4467vw, -120px) scale(0.007);
+  -webkit-animation: rain6-3 1s linear 1.6s infinite;
+          animation: rain6-3 1s linear 1.6s infinite;
+}
+@-webkit-keyframes rain6-3 {
+  to {
+    transform: translate(3.4467vw, 100vh);
+  }
+}
+@keyframes rain6-3 {
+  to {
+    transform: translate(3.4467vw, 100vh);
+  }
+}
+.rain6:nth-child(4) {
+  opacity: 0.3052;
+  transform: translate(46.2354vw, -120px) scale(0.005);
+  -webkit-animation: rain6-4 1s linear 4.9s infinite;
+          animation: rain6-4 1s linear 4.9s infinite;
+}
+@-webkit-keyframes rain6-4 {
+  to {
+    transform: translate(46.2354vw, 100vh);
+  }
+}
+@keyframes rain6-4 {
+  to {
+    transform: translate(46.2354vw, 100vh);
+  }
+}
+.rain6:nth-child(5) {
+  opacity: 0.1679;
+  transform: translate(28.0117vw, -120px) scale(0.007);
+  -webkit-animation: rain6-5 1s linear 0.9s infinite;
+          animation: rain6-5 1s linear 0.9s infinite;
+}
+@-webkit-keyframes rain6-5 {
+  to {
+    transform: translate(28.0117vw, 100vh);
+  }
+}
+@keyframes rain6-5 {
+  to {
+    transform: translate(28.0117vw, 100vh);
+  }
+}
+.rain6:nth-child(6) {
+  opacity: 0.1567;
+  transform: translate(89.4498vw, -120px) scale(0.003);
+  -webkit-animation: rain6-6 1s linear 1.7s infinite;
+          animation: rain6-6 1s linear 1.7s infinite;
+}
+@-webkit-keyframes rain6-6 {
+  to {
+    transform: translate(89.4498vw, 100vh);
+  }
+}
+@keyframes rain6-6 {
+  to {
+    transform: translate(89.4498vw, 100vh);
+  }
+}
+.rain6:nth-child(7) {
+  opacity: 0.7126;
+  transform: translate(76.5206vw, -120px) scale(0.005);
+  -webkit-animation: rain6-7 1s linear 3.3s infinite;
+          animation: rain6-7 1s linear 3.3s infinite;
+}
+@-webkit-keyframes rain6-7 {
+  to {
+    transform: translate(76.5206vw, 100vh);
+  }
+}
+@keyframes rain6-7 {
+  to {
+    transform: translate(76.5206vw, 100vh);
+  }
+}
+.rain6:nth-child(8) {
+  opacity: 0.6733;
+  transform: translate(82.5915vw, -120px) scale(0.004);
+  -webkit-animation: rain6-8 1s linear 2.7s infinite;
+          animation: rain6-8 1s linear 2.7s infinite;
+}
+@-webkit-keyframes rain6-8 {
+  to {
+    transform: translate(82.5915vw, 100vh);
+  }
+}
+@keyframes rain6-8 {
+  to {
+    transform: translate(82.5915vw, 100vh);
+  }
+}
+.rain6:nth-child(9) {
+  opacity: 0.1542;
+  transform: translate(53.9747vw, -120px) scale(0.003);
+  -webkit-animation: rain6-9 1s linear 1.8s infinite;
+          animation: rain6-9 1s linear 1.8s infinite;
+}
+@-webkit-keyframes rain6-9 {
+  to {
+    transform: translate(53.9747vw, 100vh);
+  }
+}
+@keyframes rain6-9 {
+  to {
+    transform: translate(53.9747vw, 100vh);
+  }
+}
+.rain6:nth-child(10) {
+  opacity: 0.5983;
+  transform: translate(90.2248vw, -120px) scale(0.007);
+  -webkit-animation: rain6-10 1s linear 1.6s infinite;
+          animation: rain6-10 1s linear 1.6s infinite;
+}
+@-webkit-keyframes rain6-10 {
+  to {
+    transform: translate(90.2248vw, 100vh);
+  }
+}
+@keyframes rain6-10 {
+  to {
+    transform: translate(90.2248vw, 100vh);
+  }
+}
+.rain6:nth-child(11) {
+  opacity: 0.6018;
+  transform: translate(72.7582vw, -120px) scale(0.008);
+  -webkit-animation: rain6-11 1s linear 4.6s infinite;
+          animation: rain6-11 1s linear 4.6s infinite;
+}
+@-webkit-keyframes rain6-11 {
+  to {
+    transform: translate(72.7582vw, 100vh);
+  }
+}
+@keyframes rain6-11 {
+  to {
+    transform: translate(72.7582vw, 100vh);
+  }
+}
+.rain6:nth-child(12) {
+  opacity: 0.5004;
+  transform: translate(15.8837vw, -120px) scale(0.006);
+  -webkit-animation: rain6-12 1s linear 0.6s infinite;
+          animation: rain6-12 1s linear 0.6s infinite;
+}
+@-webkit-keyframes rain6-12 {
+  to {
+    transform: translate(15.8837vw, 100vh);
+  }
+}
+@keyframes rain6-12 {
+  to {
+    transform: translate(15.8837vw, 100vh);
+  }
+}
+.rain6:nth-child(13) {
+  opacity: 0.6432;
+  transform: translate(66.7308vw, -120px) scale(0.002);
+  -webkit-animation: rain6-13 1s linear 1.5s infinite;
+          animation: rain6-13 1s linear 1.5s infinite;
+}
+@-webkit-keyframes rain6-13 {
+  to {
+    transform: translate(66.7308vw, 100vh);
+  }
+}
+@keyframes rain6-13 {
+  to {
+    transform: translate(66.7308vw, 100vh);
+  }
+}
+.rain6:nth-child(14) {
+  opacity: 0.1992;
+  transform: translate(62.2405vw, -120px) scale(0.003);
+  -webkit-animation: rain6-14 1s linear 1.9s infinite;
+          animation: rain6-14 1s linear 1.9s infinite;
+}
+@-webkit-keyframes rain6-14 {
+  to {
+    transform: translate(62.2405vw, 100vh);
+  }
+}
+@keyframes rain6-14 {
+  to {
+    transform: translate(62.2405vw, 100vh);
+  }
+}
+.rain6:nth-child(15) {
+  opacity: 0.9057;
+  transform: translate(91.3884vw, -120px) scale(0.003);
+  -webkit-animation: rain6-15 1s linear 2.4s infinite;
+          animation: rain6-15 1s linear 2.4s infinite;
+}
+@-webkit-keyframes rain6-15 {
+  to {
+    transform: translate(91.3884vw, 100vh);
+  }
+}
+@keyframes rain6-15 {
+  to {
+    transform: translate(91.3884vw, 100vh);
+  }
+}
+.rain6:nth-child(16) {
+  opacity: 0.6396;
+  transform: translate(51.639vw, -120px) scale(0.01);
+  -webkit-animation: rain6-16 1s linear 3.6s infinite;
+          animation: rain6-16 1s linear 3.6s infinite;
+}
+@-webkit-keyframes rain6-16 {
+  to {
+    transform: translate(51.639vw, 100vh);
+  }
+}
+@keyframes rain6-16 {
+  to {
+    transform: translate(51.639vw, 100vh);
+  }
+}
+.rain6:nth-child(17) {
+  opacity: 0.4307;
+  transform: translate(19.3278vw, -120px) scale(0.01);
+  -webkit-animation: rain6-17 1s linear 2.5s infinite;
+          animation: rain6-17 1s linear 2.5s infinite;
+}
+@-webkit-keyframes rain6-17 {
+  to {
+    transform: translate(19.3278vw, 100vh);
+  }
+}
+@keyframes rain6-17 {
+  to {
+    transform: translate(19.3278vw, 100vh);
+  }
+}
+.rain6:nth-child(18) {
+  opacity: 0.758;
+  transform: translate(48.3341vw, -120px) scale(0.003);
+  -webkit-animation: rain6-18 1s linear 5s infinite;
+          animation: rain6-18 1s linear 5s infinite;
+}
+@-webkit-keyframes rain6-18 {
+  to {
+    transform: translate(48.3341vw, 100vh);
+  }
+}
+@keyframes rain6-18 {
+  to {
+    transform: translate(48.3341vw, 100vh);
+  }
+}
+.rain6:nth-child(19) {
+  opacity: 0.5872;
+  transform: translate(43.7256vw, -120px) scale(0.006);
+  -webkit-animation: rain6-19 1s linear 4.7s infinite;
+          animation: rain6-19 1s linear 4.7s infinite;
+}
+@-webkit-keyframes rain6-19 {
+  to {
+    transform: translate(43.7256vw, 100vh);
+  }
+}
+@keyframes rain6-19 {
+  to {
+    transform: translate(43.7256vw, 100vh);
+  }
+}
+.rain6:nth-child(20) {
+  opacity: 0.8545;
+  transform: translate(3.108vw, -120px) scale(0.007);
+  -webkit-animation: rain6-20 1s linear 2.3s infinite;
+          animation: rain6-20 1s linear 2.3s infinite;
+}
+@-webkit-keyframes rain6-20 {
+  to {
+    transform: translate(3.108vw, 100vh);
+  }
+}
+@keyframes rain6-20 {
+  to {
+    transform: translate(3.108vw, 100vh);
+  }
+}
+.rain6:nth-child(21) {
+  opacity: 0.2853;
+  transform: translate(15.418vw, -120px) scale(0.01);
+  -webkit-animation: rain6-21 1s linear 4.3s infinite;
+          animation: rain6-21 1s linear 4.3s infinite;
+}
+@-webkit-keyframes rain6-21 {
+  to {
+    transform: translate(15.418vw, 100vh);
+  }
+}
+@keyframes rain6-21 {
+  to {
+    transform: translate(15.418vw, 100vh);
+  }
+}
+.rain6:nth-child(22) {
+  opacity: 0.9355;
+  transform: translate(39.2306vw, -120px) scale(0.006);
+  -webkit-animation: rain6-22 1s linear 4.3s infinite;
+          animation: rain6-22 1s linear 4.3s infinite;
+}
+@-webkit-keyframes rain6-22 {
+  to {
+    transform: translate(39.2306vw, 100vh);
+  }
+}
+@keyframes rain6-22 {
+  to {
+    transform: translate(39.2306vw, 100vh);
+  }
+}
+.rain6:nth-child(23) {
+  opacity: 0.6766;
+  transform: translate(2.1826vw, -120px) scale(0.003);
+  -webkit-animation: rain6-23 1s linear 4.6s infinite;
+          animation: rain6-23 1s linear 4.6s infinite;
+}
+@-webkit-keyframes rain6-23 {
+  to {
+    transform: translate(2.1826vw, 100vh);
+  }
+}
+@keyframes rain6-23 {
+  to {
+    transform: translate(2.1826vw, 100vh);
+  }
+}
+.rain6:nth-child(24) {
+  opacity: 0.0556;
+  transform: translate(17.1518vw, -120px) scale(0.006);
+  -webkit-animation: rain6-24 1s linear 3.4s infinite;
+          animation: rain6-24 1s linear 3.4s infinite;
+}
+@-webkit-keyframes rain6-24 {
+  to {
+    transform: translate(17.1518vw, 100vh);
+  }
+}
+@keyframes rain6-24 {
+  to {
+    transform: translate(17.1518vw, 100vh);
+  }
+}
+.rain6:nth-child(25) {
+  opacity: 0.5431;
+  transform: translate(3.8961vw, -120px) scale(0.002);
+  -webkit-animation: rain6-25 1s linear 3.4s infinite;
+          animation: rain6-25 1s linear 3.4s infinite;
+}
+@-webkit-keyframes rain6-25 {
+  to {
+    transform: translate(3.8961vw, 100vh);
+  }
+}
+@keyframes rain6-25 {
+  to {
+    transform: translate(3.8961vw, 100vh);
+  }
+}
+.rain6:nth-child(26) {
+  opacity: 0.453;
+  transform: translate(47.274vw, -120px) scale(0.01);
+  -webkit-animation: rain6-26 1s linear 1.5s infinite;
+          animation: rain6-26 1s linear 1.5s infinite;
+}
+@-webkit-keyframes rain6-26 {
+  to {
+    transform: translate(47.274vw, 100vh);
+  }
+}
+@keyframes rain6-26 {
+  to {
+    transform: translate(47.274vw, 100vh);
+  }
+}
+.rain6:nth-child(27) {
+  opacity: 0.9217;
+  transform: translate(85.494vw, -120px) scale(0.009);
+  -webkit-animation: rain6-27 1s linear 0.2s infinite;
+          animation: rain6-27 1s linear 0.2s infinite;
+}
+@-webkit-keyframes rain6-27 {
+  to {
+    transform: translate(85.494vw, 100vh);
+  }
+}
+@keyframes rain6-27 {
+  to {
+    transform: translate(85.494vw, 100vh);
+  }
+}
+.rain6:nth-child(28) {
+  opacity: 0.2081;
+  transform: translate(18.7948vw, -120px) scale(0.003);
+  -webkit-animation: rain6-28 1s linear 1.3s infinite;
+          animation: rain6-28 1s linear 1.3s infinite;
+}
+@-webkit-keyframes rain6-28 {
+  to {
+    transform: translate(18.7948vw, 100vh);
+  }
+}
+@keyframes rain6-28 {
+  to {
+    transform: translate(18.7948vw, 100vh);
+  }
+}
+.rain6:nth-child(29) {
+  opacity: 0.3177;
+  transform: translate(6.946vw, -120px) scale(0.001);
+  -webkit-animation: rain6-29 1s linear 1.1s infinite;
+          animation: rain6-29 1s linear 1.1s infinite;
+}
+@-webkit-keyframes rain6-29 {
+  to {
+    transform: translate(6.946vw, 100vh);
+  }
+}
+@keyframes rain6-29 {
+  to {
+    transform: translate(6.946vw, 100vh);
+  }
+}
+.rain6:nth-child(30) {
+  opacity: 0.405;
+  transform: translate(44.9563vw, -120px) scale(0.007);
+  -webkit-animation: rain6-30 1s linear 0.1s infinite;
+          animation: rain6-30 1s linear 0.1s infinite;
+}
+@-webkit-keyframes rain6-30 {
+  to {
+    transform: translate(44.9563vw, 100vh);
+  }
+}
+@keyframes rain6-30 {
+  to {
+    transform: translate(44.9563vw, 100vh);
+  }
+}
+.rain6:nth-child(31) {
+  opacity: 0.37;
+  transform: translate(1.5977vw, -120px) scale(0.003);
+  -webkit-animation: rain6-31 1s linear 3.6s infinite;
+          animation: rain6-31 1s linear 3.6s infinite;
+}
+@-webkit-keyframes rain6-31 {
+  to {
+    transform: translate(1.5977vw, 100vh);
+  }
+}
+@keyframes rain6-31 {
+  to {
+    transform: translate(1.5977vw, 100vh);
+  }
+}
+.rain6:nth-child(32) {
+  opacity: 0.7346;
+  transform: translate(30.6161vw, -120px) scale(0.007);
+  -webkit-animation: rain6-32 1s linear 3.9s infinite;
+          animation: rain6-32 1s linear 3.9s infinite;
+}
+@-webkit-keyframes rain6-32 {
+  to {
+    transform: translate(30.6161vw, 100vh);
+  }
+}
+@keyframes rain6-32 {
+  to {
+    transform: translate(30.6161vw, 100vh);
+  }
+}
+.rain6:nth-child(33) {
+  opacity: 0.0036;
+  transform: translate(83.1904vw, -120px) scale(0.004);
+  -webkit-animation: rain6-33 1s linear 2.5s infinite;
+          animation: rain6-33 1s linear 2.5s infinite;
+}
+@-webkit-keyframes rain6-33 {
+  to {
+    transform: translate(83.1904vw, 100vh);
+  }
+}
+@keyframes rain6-33 {
+  to {
+    transform: translate(83.1904vw, 100vh);
+  }
+}
+.rain6:nth-child(34) {
+  opacity: 0.8772;
+  transform: translate(9.5551vw, -120px) scale(0.006);
+  -webkit-animation: rain6-34 1s linear 0.5s infinite;
+          animation: rain6-34 1s linear 0.5s infinite;
+}
+@-webkit-keyframes rain6-34 {
+  to {
+    transform: translate(9.5551vw, 100vh);
+  }
+}
+@keyframes rain6-34 {
+  to {
+    transform: translate(9.5551vw, 100vh);
+  }
+}
+.rain6:nth-child(35) {
+  opacity: 0.4386;
+  transform: translate(37.5423vw, -120px) scale(0.005);
+  -webkit-animation: rain6-35 1s linear 2.2s infinite;
+          animation: rain6-35 1s linear 2.2s infinite;
+}
+@-webkit-keyframes rain6-35 {
+  to {
+    transform: translate(37.5423vw, 100vh);
+  }
+}
+@keyframes rain6-35 {
+  to {
+    transform: translate(37.5423vw, 100vh);
+  }
+}
+.rain6:nth-child(36) {
+  opacity: 0.1168;
+  transform: translate(49.2857vw, -120px) scale(0.003);
+  -webkit-animation: rain6-36 1s linear 3s infinite;
+          animation: rain6-36 1s linear 3s infinite;
+}
+@-webkit-keyframes rain6-36 {
+  to {
+    transform: translate(49.2857vw, 100vh);
+  }
+}
+@keyframes rain6-36 {
+  to {
+    transform: translate(49.2857vw, 100vh);
+  }
+}
+.rain6:nth-child(37) {
+  opacity: 0.87;
+  transform: translate(47.811vw, -120px) scale(0.004);
+  -webkit-animation: rain6-37 1s linear 2.9s infinite;
+          animation: rain6-37 1s linear 2.9s infinite;
+}
+@-webkit-keyframes rain6-37 {
+  to {
+    transform: translate(47.811vw, 100vh);
+  }
+}
+@keyframes rain6-37 {
+  to {
+    transform: translate(47.811vw, 100vh);
+  }
+}
+.rain6:nth-child(38) {
+  opacity: 0.0548;
+  transform: translate(73.9782vw, -120px) scale(0.008);
+  -webkit-animation: rain6-38 1s linear 3.3s infinite;
+          animation: rain6-38 1s linear 3.3s infinite;
+}
+@-webkit-keyframes rain6-38 {
+  to {
+    transform: translate(73.9782vw, 100vh);
+  }
+}
+@keyframes rain6-38 {
+  to {
+    transform: translate(73.9782vw, 100vh);
+  }
+}
+.rain6:nth-child(39) {
+  opacity: 0.6992;
+  transform: translate(77.3173vw, -120px) scale(0.004);
+  -webkit-animation: rain6-39 1s linear 1s infinite;
+          animation: rain6-39 1s linear 1s infinite;
+}
+@-webkit-keyframes rain6-39 {
+  to {
+    transform: translate(77.3173vw, 100vh);
+  }
+}
+@keyframes rain6-39 {
+  to {
+    transform: translate(77.3173vw, 100vh);
+  }
+}
+.rain6:nth-child(40) {
+  opacity: 0.5262;
+  transform: translate(84.4938vw, -120px) scale(0.006);
+  -webkit-animation: rain6-40 1s linear 2.1s infinite;
+          animation: rain6-40 1s linear 2.1s infinite;
+}
+@-webkit-keyframes rain6-40 {
+  to {
+    transform: translate(84.4938vw, 100vh);
+  }
+}
+@keyframes rain6-40 {
+  to {
+    transform: translate(84.4938vw, 100vh);
+  }
+}
+.rain6:nth-child(41) {
+  opacity: 0.4793;
+  transform: translate(45.752vw, -120px) scale(0.006);
+  -webkit-animation: rain6-41 1s linear 4.9s infinite;
+          animation: rain6-41 1s linear 4.9s infinite;
+}
+@-webkit-keyframes rain6-41 {
+  to {
+    transform: translate(45.752vw, 100vh);
+  }
+}
+@keyframes rain6-41 {
+  to {
+    transform: translate(45.752vw, 100vh);
+  }
+}
+.rain6:nth-child(42) {
+  opacity: 0.7355;
+  transform: translate(81.3581vw, -120px) scale(0.003);
+  -webkit-animation: rain6-42 1s linear 4.2s infinite;
+          animation: rain6-42 1s linear 4.2s infinite;
+}
+@-webkit-keyframes rain6-42 {
+  to {
+    transform: translate(81.3581vw, 100vh);
+  }
+}
+@keyframes rain6-42 {
+  to {
+    transform: translate(81.3581vw, 100vh);
+  }
+}
+.rain6:nth-child(43) {
+  opacity: 0.6399;
+  transform: translate(58.5958vw, -120px) scale(0.009);
+  -webkit-animation: rain6-43 1s linear 3.2s infinite;
+          animation: rain6-43 1s linear 3.2s infinite;
+}
+@-webkit-keyframes rain6-43 {
+  to {
+    transform: translate(58.5958vw, 100vh);
+  }
+}
+@keyframes rain6-43 {
+  to {
+    transform: translate(58.5958vw, 100vh);
+  }
+}
+.rain6:nth-child(44) {
+  opacity: 0.2947;
+  transform: translate(38.4896vw, -120px) scale(0.01);
+  -webkit-animation: rain6-44 1s linear 2.8s infinite;
+          animation: rain6-44 1s linear 2.8s infinite;
+}
+@-webkit-keyframes rain6-44 {
+  to {
+    transform: translate(38.4896vw, 100vh);
+  }
+}
+@keyframes rain6-44 {
+  to {
+    transform: translate(38.4896vw, 100vh);
+  }
+}
+.rain6:nth-child(45) {
+  opacity: 0.7466;
+  transform: translate(21.2827vw, -120px) scale(0.001);
+  -webkit-animation: rain6-45 1s linear 4.6s infinite;
+          animation: rain6-45 1s linear 4.6s infinite;
+}
+@-webkit-keyframes rain6-45 {
+  to {
+    transform: translate(21.2827vw, 100vh);
+  }
+}
+@keyframes rain6-45 {
+  to {
+    transform: translate(21.2827vw, 100vh);
+  }
+}
+.rain6:nth-child(46) {
+  opacity: 0.0397;
+  transform: translate(58.4009vw, -120px) scale(0.01);
+  -webkit-animation: rain6-46 1s linear 3.1s infinite;
+          animation: rain6-46 1s linear 3.1s infinite;
+}
+@-webkit-keyframes rain6-46 {
+  to {
+    transform: translate(58.4009vw, 100vh);
+  }
+}
+@keyframes rain6-46 {
+  to {
+    transform: translate(58.4009vw, 100vh);
+  }
+}
+.rain6:nth-child(47) {
+  opacity: 0.159;
+  transform: translate(95.199vw, -120px) scale(0.003);
+  -webkit-animation: rain6-47 1s linear 2.2s infinite;
+          animation: rain6-47 1s linear 2.2s infinite;
+}
+@-webkit-keyframes rain6-47 {
+  to {
+    transform: translate(95.199vw, 100vh);
+  }
+}
+@keyframes rain6-47 {
+  to {
+    transform: translate(95.199vw, 100vh);
+  }
+}
+.rain6:nth-child(48) {
+  opacity: 0.1505;
+  transform: translate(91.6194vw, -120px) scale(0.005);
+  -webkit-animation: rain6-48 1s linear 4.8s infinite;
+          animation: rain6-48 1s linear 4.8s infinite;
+}
+@-webkit-keyframes rain6-48 {
+  to {
+    transform: translate(91.6194vw, 100vh);
+  }
+}
+@keyframes rain6-48 {
+  to {
+    transform: translate(91.6194vw, 100vh);
+  }
+}
+.rain6:nth-child(49) {
+  opacity: 0.0615;
+  transform: translate(22.5989vw, -120px) scale(0.01);
+  -webkit-animation: rain6-49 1s linear 2s infinite;
+          animation: rain6-49 1s linear 2s infinite;
+}
+@-webkit-keyframes rain6-49 {
+  to {
+    transform: translate(22.5989vw, 100vh);
+  }
+}
+@keyframes rain6-49 {
+  to {
+    transform: translate(22.5989vw, 100vh);
+  }
+}
+.rain6:nth-child(50) {
+  opacity: 0.3177;
+  transform: translate(87.6326vw, -120px) scale(0.006);
+  -webkit-animation: rain6-50 1s linear 2.1s infinite;
+          animation: rain6-50 1s linear 2.1s infinite;
+}
+@-webkit-keyframes rain6-50 {
+  to {
+    transform: translate(87.6326vw, 100vh);
+  }
+}
+@keyframes rain6-50 {
+  to {
+    transform: translate(87.6326vw, 100vh);
+  }
+}
+.rain6:nth-child(51) {
+  opacity: 0.4017;
+  transform: translate(70.3091vw, -120px) scale(0.003);
+  -webkit-animation: rain6-51 1s linear 2.5s infinite;
+          animation: rain6-51 1s linear 2.5s infinite;
+}
+@-webkit-keyframes rain6-51 {
+  to {
+    transform: translate(70.3091vw, 100vh);
+  }
+}
+@keyframes rain6-51 {
+  to {
+    transform: translate(70.3091vw, 100vh);
+  }
+}
+.rain6:nth-child(52) {
+  opacity: 0.0046;
+  transform: translate(50.3054vw, -120px) scale(0.004);
+  -webkit-animation: rain6-52 1s linear 0.7s infinite;
+          animation: rain6-52 1s linear 0.7s infinite;
+}
+@-webkit-keyframes rain6-52 {
+  to {
+    transform: translate(50.3054vw, 100vh);
+  }
+}
+@keyframes rain6-52 {
+  to {
+    transform: translate(50.3054vw, 100vh);
+  }
+}
+.rain6:nth-child(53) {
+  opacity: 0.2918;
+  transform: translate(7.9655vw, -120px) scale(0.008);
+  -webkit-animation: rain6-53 1s linear 4.1s infinite;
+          animation: rain6-53 1s linear 4.1s infinite;
+}
+@-webkit-keyframes rain6-53 {
+  to {
+    transform: translate(7.9655vw, 100vh);
+  }
+}
+@keyframes rain6-53 {
+  to {
+    transform: translate(7.9655vw, 100vh);
+  }
+}
+.rain6:nth-child(54) {
+  opacity: 0.9039;
+  transform: translate(99.1221vw, -120px) scale(0.01);
+  -webkit-animation: rain6-54 1s linear 2.7s infinite;
+          animation: rain6-54 1s linear 2.7s infinite;
+}
+@-webkit-keyframes rain6-54 {
+  to {
+    transform: translate(99.1221vw, 100vh);
+  }
+}
+@keyframes rain6-54 {
+  to {
+    transform: translate(99.1221vw, 100vh);
+  }
+}
+.rain6:nth-child(55) {
+  opacity: 0.397;
+  transform: translate(60.9029vw, -120px) scale(0.008);
+  -webkit-animation: rain6-55 1s linear 2.9s infinite;
+          animation: rain6-55 1s linear 2.9s infinite;
+}
+@-webkit-keyframes rain6-55 {
+  to {
+    transform: translate(60.9029vw, 100vh);
+  }
+}
+@keyframes rain6-55 {
+  to {
+    transform: translate(60.9029vw, 100vh);
+  }
+}
+.rain6:nth-child(56) {
+  opacity: 0.3196;
+  transform: translate(81.3682vw, -120px) scale(0.007);
+  -webkit-animation: rain6-56 1s linear 1.8s infinite;
+          animation: rain6-56 1s linear 1.8s infinite;
+}
+@-webkit-keyframes rain6-56 {
+  to {
+    transform: translate(81.3682vw, 100vh);
+  }
+}
+@keyframes rain6-56 {
+  to {
+    transform: translate(81.3682vw, 100vh);
+  }
+}
+.rain6:nth-child(57) {
+  opacity: 0.7511;
+  transform: translate(43.1259vw, -120px) scale(0.005);
+  -webkit-animation: rain6-57 1s linear 4.9s infinite;
+          animation: rain6-57 1s linear 4.9s infinite;
+}
+@-webkit-keyframes rain6-57 {
+  to {
+    transform: translate(43.1259vw, 100vh);
+  }
+}
+@keyframes rain6-57 {
+  to {
+    transform: translate(43.1259vw, 100vh);
+  }
+}
+.rain6:nth-child(58) {
+  opacity: 0.4856;
+  transform: translate(90.7114vw, -120px) scale(0.007);
+  -webkit-animation: rain6-58 1s linear 3.2s infinite;
+          animation: rain6-58 1s linear 3.2s infinite;
+}
+@-webkit-keyframes rain6-58 {
+  to {
+    transform: translate(90.7114vw, 100vh);
+  }
+}
+@keyframes rain6-58 {
+  to {
+    transform: translate(90.7114vw, 100vh);
+  }
+}
+.rain6:nth-child(59) {
+  opacity: 0.7573;
+  transform: translate(58.9235vw, -120px) scale(0.01);
+  -webkit-animation: rain6-59 1s linear 2.6s infinite;
+          animation: rain6-59 1s linear 2.6s infinite;
+}
+@-webkit-keyframes rain6-59 {
+  to {
+    transform: translate(58.9235vw, 100vh);
+  }
+}
+@keyframes rain6-59 {
+  to {
+    transform: translate(58.9235vw, 100vh);
+  }
+}
+.rain6:nth-child(60) {
+  opacity: 0.7231;
+  transform: translate(48.9183vw, -120px) scale(0.003);
+  -webkit-animation: rain6-60 1s linear 0.1s infinite;
+          animation: rain6-60 1s linear 0.1s infinite;
+}
+@-webkit-keyframes rain6-60 {
+  to {
+    transform: translate(48.9183vw, 100vh);
+  }
+}
+@keyframes rain6-60 {
+  to {
+    transform: translate(48.9183vw, 100vh);
+  }
+}
+.rain6:nth-child(61) {
+  opacity: 0.0676;
+  transform: translate(47.5708vw, -120px) scale(0.007);
+  -webkit-animation: rain6-61 1s linear 4.4s infinite;
+          animation: rain6-61 1s linear 4.4s infinite;
+}
+@-webkit-keyframes rain6-61 {
+  to {
+    transform: translate(47.5708vw, 100vh);
+  }
+}
+@keyframes rain6-61 {
+  to {
+    transform: translate(47.5708vw, 100vh);
+  }
+}
+.rain6:nth-child(62) {
+  opacity: 0.0179;
+  transform: translate(80.1873vw, -120px) scale(0.005);
+  -webkit-animation: rain6-62 1s linear 1.6s infinite;
+          animation: rain6-62 1s linear 1.6s infinite;
+}
+@-webkit-keyframes rain6-62 {
+  to {
+    transform: translate(80.1873vw, 100vh);
+  }
+}
+@keyframes rain6-62 {
+  to {
+    transform: translate(80.1873vw, 100vh);
+  }
+}
+.rain6:nth-child(63) {
+  opacity: 0.0246;
+  transform: translate(52.2988vw, -120px) scale(0.001);
+  -webkit-animation: rain6-63 1s linear 4.9s infinite;
+          animation: rain6-63 1s linear 4.9s infinite;
+}
+@-webkit-keyframes rain6-63 {
+  to {
+    transform: translate(52.2988vw, 100vh);
+  }
+}
+@keyframes rain6-63 {
+  to {
+    transform: translate(52.2988vw, 100vh);
+  }
+}
+.rain6:nth-child(64) {
+  opacity: 0.6088;
+  transform: translate(98.3057vw, -120px) scale(0.003);
+  -webkit-animation: rain6-64 1s linear 1.9s infinite;
+          animation: rain6-64 1s linear 1.9s infinite;
+}
+@-webkit-keyframes rain6-64 {
+  to {
+    transform: translate(98.3057vw, 100vh);
+  }
+}
+@keyframes rain6-64 {
+  to {
+    transform: translate(98.3057vw, 100vh);
+  }
+}
+.rain6:nth-child(65) {
+  opacity: 0.8131;
+  transform: translate(42.8005vw, -120px) scale(0.005);
+  -webkit-animation: rain6-65 1s linear 2.6s infinite;
+          animation: rain6-65 1s linear 2.6s infinite;
+}
+@-webkit-keyframes rain6-65 {
+  to {
+    transform: translate(42.8005vw, 100vh);
+  }
+}
+@keyframes rain6-65 {
+  to {
+    transform: translate(42.8005vw, 100vh);
+  }
+}
+.rain6:nth-child(66) {
+  opacity: 0.9451;
+  transform: translate(37.1694vw, -120px) scale(0.009);
+  -webkit-animation: rain6-66 1s linear 4.8s infinite;
+          animation: rain6-66 1s linear 4.8s infinite;
+}
+@-webkit-keyframes rain6-66 {
+  to {
+    transform: translate(37.1694vw, 100vh);
+  }
+}
+@keyframes rain6-66 {
+  to {
+    transform: translate(37.1694vw, 100vh);
+  }
+}
+.rain6:nth-child(67) {
+  opacity: 0.0868;
+  transform: translate(13.191vw, -120px) scale(0.004);
+  -webkit-animation: rain6-67 1s linear 3.4s infinite;
+          animation: rain6-67 1s linear 3.4s infinite;
+}
+@-webkit-keyframes rain6-67 {
+  to {
+    transform: translate(13.191vw, 100vh);
+  }
+}
+@keyframes rain6-67 {
+  to {
+    transform: translate(13.191vw, 100vh);
+  }
+}
+.rain6:nth-child(68) {
+  opacity: 0.346;
+  transform: translate(80.2138vw, -120px) scale(0.01);
+  -webkit-animation: rain6-68 1s linear 1.4s infinite;
+          animation: rain6-68 1s linear 1.4s infinite;
+}
+@-webkit-keyframes rain6-68 {
+  to {
+    transform: translate(80.2138vw, 100vh);
+  }
+}
+@keyframes rain6-68 {
+  to {
+    transform: translate(80.2138vw, 100vh);
+  }
+}
+.rain6:nth-child(69) {
+  opacity: 0.5012;
+  transform: translate(31.2394vw, -120px) scale(0.007);
+  -webkit-animation: rain6-69 1s linear 2.5s infinite;
+          animation: rain6-69 1s linear 2.5s infinite;
+}
+@-webkit-keyframes rain6-69 {
+  to {
+    transform: translate(31.2394vw, 100vh);
+  }
+}
+@keyframes rain6-69 {
+  to {
+    transform: translate(31.2394vw, 100vh);
+  }
+}
+.rain6:nth-child(70) {
+  opacity: 0.2297;
+  transform: translate(4.0215vw, -120px) scale(0.003);
+  -webkit-animation: rain6-70 1s linear 1.2s infinite;
+          animation: rain6-70 1s linear 1.2s infinite;
+}
+@-webkit-keyframes rain6-70 {
+  to {
+    transform: translate(4.0215vw, 100vh);
+  }
+}
+@keyframes rain6-70 {
+  to {
+    transform: translate(4.0215vw, 100vh);
+  }
+}
+.rain6:nth-child(71) {
+  opacity: 0.6598;
+  transform: translate(85.8323vw, -120px) scale(0.002);
+  -webkit-animation: rain6-71 1s linear 4.1s infinite;
+          animation: rain6-71 1s linear 4.1s infinite;
+}
+@-webkit-keyframes rain6-71 {
+  to {
+    transform: translate(85.8323vw, 100vh);
+  }
+}
+@keyframes rain6-71 {
+  to {
+    transform: translate(85.8323vw, 100vh);
+  }
+}
+.rain6:nth-child(72) {
+  opacity: 0.0557;
+  transform: translate(45.3156vw, -120px) scale(0.004);
+  -webkit-animation: rain6-72 1s linear 1.2s infinite;
+          animation: rain6-72 1s linear 1.2s infinite;
+}
+@-webkit-keyframes rain6-72 {
+  to {
+    transform: translate(45.3156vw, 100vh);
+  }
+}
+@keyframes rain6-72 {
+  to {
+    transform: translate(45.3156vw, 100vh);
+  }
+}
+.rain6:nth-child(73) {
+  opacity: 0.2495;
+  transform: translate(18.8765vw, -120px) scale(0.01);
+  -webkit-animation: rain6-73 1s linear 3.7s infinite;
+          animation: rain6-73 1s linear 3.7s infinite;
+}
+@-webkit-keyframes rain6-73 {
+  to {
+    transform: translate(18.8765vw, 100vh);
+  }
+}
+@keyframes rain6-73 {
+  to {
+    transform: translate(18.8765vw, 100vh);
+  }
+}
+.rain6:nth-child(74) {
+  opacity: 0.7848;
+  transform: translate(59.1917vw, -120px) scale(0.006);
+  -webkit-animation: rain6-74 1s linear 1s infinite;
+          animation: rain6-74 1s linear 1s infinite;
+}
+@-webkit-keyframes rain6-74 {
+  to {
+    transform: translate(59.1917vw, 100vh);
+  }
+}
+@keyframes rain6-74 {
+  to {
+    transform: translate(59.1917vw, 100vh);
+  }
+}
+.rain6:nth-child(75) {
+  opacity: 0.3135;
+  transform: translate(66.258vw, -120px) scale(0.01);
+  -webkit-animation: rain6-75 1s linear 4s infinite;
+          animation: rain6-75 1s linear 4s infinite;
+}
+@-webkit-keyframes rain6-75 {
+  to {
+    transform: translate(66.258vw, 100vh);
+  }
+}
+@keyframes rain6-75 {
+  to {
+    transform: translate(66.258vw, 100vh);
+  }
+}
+.rain6:nth-child(76) {
+  opacity: 0.1262;
+  transform: translate(96.1022vw, -120px) scale(0.001);
+  -webkit-animation: rain6-76 1s linear 1s infinite;
+          animation: rain6-76 1s linear 1s infinite;
+}
+@-webkit-keyframes rain6-76 {
+  to {
+    transform: translate(96.1022vw, 100vh);
+  }
+}
+@keyframes rain6-76 {
+  to {
+    transform: translate(96.1022vw, 100vh);
+  }
+}
+.rain6:nth-child(77) {
+  opacity: 0.032;
+  transform: translate(41.5546vw, -120px) scale(0.01);
+  -webkit-animation: rain6-77 1s linear 4.4s infinite;
+          animation: rain6-77 1s linear 4.4s infinite;
+}
+@-webkit-keyframes rain6-77 {
+  to {
+    transform: translate(41.5546vw, 100vh);
+  }
+}
+@keyframes rain6-77 {
+  to {
+    transform: translate(41.5546vw, 100vh);
+  }
+}
+.rain6:nth-child(78) {
+  opacity: 0.8044;
+  transform: translate(99.5317vw, -120px) scale(0.007);
+  -webkit-animation: rain6-78 1s linear 2.5s infinite;
+          animation: rain6-78 1s linear 2.5s infinite;
+}
+@-webkit-keyframes rain6-78 {
+  to {
+    transform: translate(99.5317vw, 100vh);
+  }
+}
+@keyframes rain6-78 {
+  to {
+    transform: translate(99.5317vw, 100vh);
+  }
+}
+.rain6:nth-child(79) {
+  opacity: 0.3899;
+  transform: translate(42.2274vw, -120px) scale(0.004);
+  -webkit-animation: rain6-79 1s linear 4.7s infinite;
+          animation: rain6-79 1s linear 4.7s infinite;
+}
+@-webkit-keyframes rain6-79 {
+  to {
+    transform: translate(42.2274vw, 100vh);
+  }
+}
+@keyframes rain6-79 {
+  to {
+    transform: translate(42.2274vw, 100vh);
+  }
+}
+.rain6:nth-child(80) {
+  opacity: 0.8275;
+  transform: translate(21.226vw, -120px) scale(0.008);
+  -webkit-animation: rain6-80 1s linear 0.5s infinite;
+          animation: rain6-80 1s linear 0.5s infinite;
+}
+@-webkit-keyframes rain6-80 {
+  to {
+    transform: translate(21.226vw, 100vh);
+  }
+}
+@keyframes rain6-80 {
+  to {
+    transform: translate(21.226vw, 100vh);
+  }
+}
+.rain6:nth-child(81) {
+  opacity: 0.8983;
+  transform: translate(33.0288vw, -120px) scale(0.008);
+  -webkit-animation: rain6-81 1s linear 4s infinite;
+          animation: rain6-81 1s linear 4s infinite;
+}
+@-webkit-keyframes rain6-81 {
+  to {
+    transform: translate(33.0288vw, 100vh);
+  }
+}
+@keyframes rain6-81 {
+  to {
+    transform: translate(33.0288vw, 100vh);
+  }
+}
+.rain6:nth-child(82) {
+  opacity: 0.9081;
+  transform: translate(98.0613vw, -120px) scale(0.009);
+  -webkit-animation: rain6-82 1s linear 4.4s infinite;
+          animation: rain6-82 1s linear 4.4s infinite;
+}
+@-webkit-keyframes rain6-82 {
+  to {
+    transform: translate(98.0613vw, 100vh);
+  }
+}
+@keyframes rain6-82 {
+  to {
+    transform: translate(98.0613vw, 100vh);
+  }
+}
+.rain6:nth-child(83) {
+  opacity: 0.0531;
+  transform: translate(95.0478vw, -120px) scale(0.006);
+  -webkit-animation: rain6-83 1s linear 0.1s infinite;
+          animation: rain6-83 1s linear 0.1s infinite;
+}
+@-webkit-keyframes rain6-83 {
+  to {
+    transform: translate(95.0478vw, 100vh);
+  }
+}
+@keyframes rain6-83 {
+  to {
+    transform: translate(95.0478vw, 100vh);
+  }
+}
+.rain6:nth-child(84) {
+  opacity: 0.2929;
+  transform: translate(38.6849vw, -120px) scale(0.001);
+  -webkit-animation: rain6-84 1s linear 4.2s infinite;
+          animation: rain6-84 1s linear 4.2s infinite;
+}
+@-webkit-keyframes rain6-84 {
+  to {
+    transform: translate(38.6849vw, 100vh);
+  }
+}
+@keyframes rain6-84 {
+  to {
+    transform: translate(38.6849vw, 100vh);
+  }
+}
+.rain6:nth-child(85) {
+  opacity: 0.4465;
+  transform: translate(81.6613vw, -120px) scale(0.01);
+  -webkit-animation: rain6-85 1s linear 4.8s infinite;
+          animation: rain6-85 1s linear 4.8s infinite;
+}
+@-webkit-keyframes rain6-85 {
+  to {
+    transform: translate(81.6613vw, 100vh);
+  }
+}
+@keyframes rain6-85 {
+  to {
+    transform: translate(81.6613vw, 100vh);
+  }
+}
+.rain6:nth-child(86) {
+  opacity: 0.3059;
+  transform: translate(15.3876vw, -120px) scale(0.008);
+  -webkit-animation: rain6-86 1s linear 0.7s infinite;
+          animation: rain6-86 1s linear 0.7s infinite;
+}
+@-webkit-keyframes rain6-86 {
+  to {
+    transform: translate(15.3876vw, 100vh);
+  }
+}
+@keyframes rain6-86 {
+  to {
+    transform: translate(15.3876vw, 100vh);
+  }
+}
+.rain6:nth-child(87) {
+  opacity: 0.3586;
+  transform: translate(19.6987vw, -120px) scale(0.007);
+  -webkit-animation: rain6-87 1s linear 2.5s infinite;
+          animation: rain6-87 1s linear 2.5s infinite;
+}
+@-webkit-keyframes rain6-87 {
+  to {
+    transform: translate(19.6987vw, 100vh);
+  }
+}
+@keyframes rain6-87 {
+  to {
+    transform: translate(19.6987vw, 100vh);
+  }
+}
+.rain6:nth-child(88) {
+  opacity: 0.4923;
+  transform: translate(17.9003vw, -120px) scale(0.003);
+  -webkit-animation: rain6-88 1s linear 4.5s infinite;
+          animation: rain6-88 1s linear 4.5s infinite;
+}
+@-webkit-keyframes rain6-88 {
+  to {
+    transform: translate(17.9003vw, 100vh);
+  }
+}
+@keyframes rain6-88 {
+  to {
+    transform: translate(17.9003vw, 100vh);
+  }
+}
+.rain6:nth-child(89) {
+  opacity: 0.569;
+  transform: translate(33.8784vw, -120px) scale(0.002);
+  -webkit-animation: rain6-89 1s linear 1.3s infinite;
+          animation: rain6-89 1s linear 1.3s infinite;
+}
+@-webkit-keyframes rain6-89 {
+  to {
+    transform: translate(33.8784vw, 100vh);
+  }
+}
+@keyframes rain6-89 {
+  to {
+    transform: translate(33.8784vw, 100vh);
+  }
+}
+.rain6:nth-child(90) {
+  opacity: 0.6987;
+  transform: translate(51.6511vw, -120px) scale(0.003);
+  -webkit-animation: rain6-90 1s linear 3.8s infinite;
+          animation: rain6-90 1s linear 3.8s infinite;
+}
+@-webkit-keyframes rain6-90 {
+  to {
+    transform: translate(51.6511vw, 100vh);
+  }
+}
+@keyframes rain6-90 {
+  to {
+    transform: translate(51.6511vw, 100vh);
+  }
+}
+.rain6:nth-child(91) {
+  opacity: 0.3712;
+  transform: translate(6.0556vw, -120px) scale(0.008);
+  -webkit-animation: rain6-91 1s linear 1.2s infinite;
+          animation: rain6-91 1s linear 1.2s infinite;
+}
+@-webkit-keyframes rain6-91 {
+  to {
+    transform: translate(6.0556vw, 100vh);
+  }
+}
+@keyframes rain6-91 {
+  to {
+    transform: translate(6.0556vw, 100vh);
+  }
+}
+.rain6:nth-child(92) {
+  opacity: 0.1355;
+  transform: translate(8.0457vw, -120px) scale(0.003);
+  -webkit-animation: rain6-92 1s linear 1.1s infinite;
+          animation: rain6-92 1s linear 1.1s infinite;
+}
+@-webkit-keyframes rain6-92 {
+  to {
+    transform: translate(8.0457vw, 100vh);
+  }
+}
+@keyframes rain6-92 {
+  to {
+    transform: translate(8.0457vw, 100vh);
+  }
+}
+.rain6:nth-child(93) {
+  opacity: 0.3097;
+  transform: translate(36.9515vw, -120px) scale(0.003);
+  -webkit-animation: rain6-93 1s linear 2.6s infinite;
+          animation: rain6-93 1s linear 2.6s infinite;
+}
+@-webkit-keyframes rain6-93 {
+  to {
+    transform: translate(36.9515vw, 100vh);
+  }
+}
+@keyframes rain6-93 {
+  to {
+    transform: translate(36.9515vw, 100vh);
+  }
+}
+.rain6:nth-child(94) {
+  opacity: 0.4951;
+  transform: translate(69.9079vw, -120px) scale(0.004);
+  -webkit-animation: rain6-94 1s linear 3.8s infinite;
+          animation: rain6-94 1s linear 3.8s infinite;
+}
+@-webkit-keyframes rain6-94 {
+  to {
+    transform: translate(69.9079vw, 100vh);
+  }
+}
+@keyframes rain6-94 {
+  to {
+    transform: translate(69.9079vw, 100vh);
+  }
+}
+.rain6:nth-child(95) {
+  opacity: 0.8682;
+  transform: translate(34.3147vw, -120px) scale(0.009);
+  -webkit-animation: rain6-95 1s linear 4.5s infinite;
+          animation: rain6-95 1s linear 4.5s infinite;
+}
+@-webkit-keyframes rain6-95 {
+  to {
+    transform: translate(34.3147vw, 100vh);
+  }
+}
+@keyframes rain6-95 {
+  to {
+    transform: translate(34.3147vw, 100vh);
+  }
+}
+.rain6:nth-child(96) {
+  opacity: 0.6197;
+  transform: translate(29.3367vw, -120px) scale(0.01);
+  -webkit-animation: rain6-96 1s linear 2.1s infinite;
+          animation: rain6-96 1s linear 2.1s infinite;
+}
+@-webkit-keyframes rain6-96 {
+  to {
+    transform: translate(29.3367vw, 100vh);
+  }
+}
+@keyframes rain6-96 {
+  to {
+    transform: translate(29.3367vw, 100vh);
+  }
+}
+.rain6:nth-child(97) {
+  opacity: 0.9006;
+  transform: translate(4.4549vw, -120px) scale(0.008);
+  -webkit-animation: rain6-97 1s linear 4.8s infinite;
+          animation: rain6-97 1s linear 4.8s infinite;
+}
+@-webkit-keyframes rain6-97 {
+  to {
+    transform: translate(4.4549vw, 100vh);
+  }
+}
+@keyframes rain6-97 {
+  to {
+    transform: translate(4.4549vw, 100vh);
+  }
+}
+.rain6:nth-child(98) {
+  opacity: 0.1894;
+  transform: translate(38.7923vw, -120px) scale(0.001);
+  -webkit-animation: rain6-98 1s linear 4.8s infinite;
+          animation: rain6-98 1s linear 4.8s infinite;
+}
+@-webkit-keyframes rain6-98 {
+  to {
+    transform: translate(38.7923vw, 100vh);
+  }
+}
+@keyframes rain6-98 {
+  to {
+    transform: translate(38.7923vw, 100vh);
+  }
+}
+.rain6:nth-child(99) {
+  opacity: 0.166;
+  transform: translate(91.5376vw, -120px) scale(0.01);
+  -webkit-animation: rain6-99 1s linear 4.9s infinite;
+          animation: rain6-99 1s linear 4.9s infinite;
+}
+@-webkit-keyframes rain6-99 {
+  to {
+    transform: translate(91.5376vw, 100vh);
+  }
+}
+@keyframes rain6-99 {
+  to {
+    transform: translate(91.5376vw, 100vh);
+  }
+}
+.rain6:nth-child(100) {
+  opacity: 0.874;
+  transform: translate(36.9647vw, -120px) scale(0.01);
+  -webkit-animation: rain6-100 1s linear 0.3s infinite;
+          animation: rain6-100 1s linear 0.3s infinite;
+}
+@-webkit-keyframes rain6-100 {
+  to {
+    transform: translate(36.9647vw, 100vh);
+  }
+}
+@keyframes rain6-100 {
+  to {
+    transform: translate(36.9647vw, 100vh);
+  }
+}
+.rain6:nth-child(101) {
+  opacity: 0.9993;
+  transform: translate(56.792vw, -120px) scale(0.002);
+  -webkit-animation: rain6-101 1s linear 1.6s infinite;
+          animation: rain6-101 1s linear 1.6s infinite;
+}
+@-webkit-keyframes rain6-101 {
+  to {
+    transform: translate(56.792vw, 100vh);
+  }
+}
+@keyframes rain6-101 {
+  to {
+    transform: translate(56.792vw, 100vh);
+  }
+}
+.rain6:nth-child(102) {
+  opacity: 0.3343;
+  transform: translate(25.7907vw, -120px) scale(0.005);
+  -webkit-animation: rain6-102 1s linear 3s infinite;
+          animation: rain6-102 1s linear 3s infinite;
+}
+@-webkit-keyframes rain6-102 {
+  to {
+    transform: translate(25.7907vw, 100vh);
+  }
+}
+@keyframes rain6-102 {
+  to {
+    transform: translate(25.7907vw, 100vh);
+  }
+}
+.rain6:nth-child(103) {
+  opacity: 0.4983;
+  transform: translate(68.6402vw, -120px) scale(0.006);
+  -webkit-animation: rain6-103 1s linear 2.4s infinite;
+          animation: rain6-103 1s linear 2.4s infinite;
+}
+@-webkit-keyframes rain6-103 {
+  to {
+    transform: translate(68.6402vw, 100vh);
+  }
+}
+@keyframes rain6-103 {
+  to {
+    transform: translate(68.6402vw, 100vh);
+  }
+}
+.rain6:nth-child(104) {
+  opacity: 0.065;
+  transform: translate(37.2479vw, -120px) scale(0.01);
+  -webkit-animation: rain6-104 1s linear 5s infinite;
+          animation: rain6-104 1s linear 5s infinite;
+}
+@-webkit-keyframes rain6-104 {
+  to {
+    transform: translate(37.2479vw, 100vh);
+  }
+}
+@keyframes rain6-104 {
+  to {
+    transform: translate(37.2479vw, 100vh);
+  }
+}
+.rain6:nth-child(105) {
+  opacity: 0.7474;
+  transform: translate(70.5866vw, -120px) scale(0.005);
+  -webkit-animation: rain6-105 1s linear 0.8s infinite;
+          animation: rain6-105 1s linear 0.8s infinite;
+}
+@-webkit-keyframes rain6-105 {
+  to {
+    transform: translate(70.5866vw, 100vh);
+  }
+}
+@keyframes rain6-105 {
+  to {
+    transform: translate(70.5866vw, 100vh);
+  }
+}
+.rain6:nth-child(106) {
+  opacity: 0.4331;
+  transform: translate(40.5156vw, -120px) scale(0.009);
+  -webkit-animation: rain6-106 1s linear 5s infinite;
+          animation: rain6-106 1s linear 5s infinite;
+}
+@-webkit-keyframes rain6-106 {
+  to {
+    transform: translate(40.5156vw, 100vh);
+  }
+}
+@keyframes rain6-106 {
+  to {
+    transform: translate(40.5156vw, 100vh);
+  }
+}
+.rain6:nth-child(107) {
+  opacity: 0.4476;
+  transform: translate(99.3982vw, -120px) scale(0.003);
+  -webkit-animation: rain6-107 1s linear 3.2s infinite;
+          animation: rain6-107 1s linear 3.2s infinite;
+}
+@-webkit-keyframes rain6-107 {
+  to {
+    transform: translate(99.3982vw, 100vh);
+  }
+}
+@keyframes rain6-107 {
+  to {
+    transform: translate(99.3982vw, 100vh);
+  }
+}
+.rain6:nth-child(108) {
+  opacity: 0.4718;
+  transform: translate(98.9927vw, -120px) scale(0.003);
+  -webkit-animation: rain6-108 1s linear 0.2s infinite;
+          animation: rain6-108 1s linear 0.2s infinite;
+}
+@-webkit-keyframes rain6-108 {
+  to {
+    transform: translate(98.9927vw, 100vh);
+  }
+}
+@keyframes rain6-108 {
+  to {
+    transform: translate(98.9927vw, 100vh);
+  }
+}
+.rain6:nth-child(109) {
+  opacity: 0.3143;
+  transform: translate(13.7376vw, -120px) scale(0.004);
+  -webkit-animation: rain6-109 1s linear 4s infinite;
+          animation: rain6-109 1s linear 4s infinite;
+}
+@-webkit-keyframes rain6-109 {
+  to {
+    transform: translate(13.7376vw, 100vh);
+  }
+}
+@keyframes rain6-109 {
+  to {
+    transform: translate(13.7376vw, 100vh);
+  }
+}
+.rain6:nth-child(110) {
+  opacity: 0.5921;
+  transform: translate(56.0885vw, -120px) scale(0.009);
+  -webkit-animation: rain6-110 1s linear 0.7s infinite;
+          animation: rain6-110 1s linear 0.7s infinite;
+}
+@-webkit-keyframes rain6-110 {
+  to {
+    transform: translate(56.0885vw, 100vh);
+  }
+}
+@keyframes rain6-110 {
+  to {
+    transform: translate(56.0885vw, 100vh);
+  }
+}
+.rain6:nth-child(111) {
+  opacity: 0.2574;
+  transform: translate(17.8748vw, -120px) scale(0.009);
+  -webkit-animation: rain6-111 1s linear 4.9s infinite;
+          animation: rain6-111 1s linear 4.9s infinite;
+}
+@-webkit-keyframes rain6-111 {
+  to {
+    transform: translate(17.8748vw, 100vh);
+  }
+}
+@keyframes rain6-111 {
+  to {
+    transform: translate(17.8748vw, 100vh);
+  }
+}
+.rain6:nth-child(112) {
+  opacity: 0.122;
+  transform: translate(10.9785vw, -120px) scale(0.001);
+  -webkit-animation: rain6-112 1s linear 5s infinite;
+          animation: rain6-112 1s linear 5s infinite;
+}
+@-webkit-keyframes rain6-112 {
+  to {
+    transform: translate(10.9785vw, 100vh);
+  }
+}
+@keyframes rain6-112 {
+  to {
+    transform: translate(10.9785vw, 100vh);
+  }
+}
+.rain6:nth-child(113) {
+  opacity: 0.9209;
+  transform: translate(74.1548vw, -120px) scale(0.006);
+  -webkit-animation: rain6-113 1s linear 4.3s infinite;
+          animation: rain6-113 1s linear 4.3s infinite;
+}
+@-webkit-keyframes rain6-113 {
+  to {
+    transform: translate(74.1548vw, 100vh);
+  }
+}
+@keyframes rain6-113 {
+  to {
+    transform: translate(74.1548vw, 100vh);
+  }
+}
+.rain6:nth-child(114) {
+  opacity: 0.9381;
+  transform: translate(82.1432vw, -120px) scale(0.002);
+  -webkit-animation: rain6-114 1s linear 0.4s infinite;
+          animation: rain6-114 1s linear 0.4s infinite;
+}
+@-webkit-keyframes rain6-114 {
+  to {
+    transform: translate(82.1432vw, 100vh);
+  }
+}
+@keyframes rain6-114 {
+  to {
+    transform: translate(82.1432vw, 100vh);
+  }
+}
+.rain6:nth-child(115) {
+  opacity: 0.325;
+  transform: translate(55.06vw, -120px) scale(0.006);
+  -webkit-animation: rain6-115 1s linear 0.7s infinite;
+          animation: rain6-115 1s linear 0.7s infinite;
+}
+@-webkit-keyframes rain6-115 {
+  to {
+    transform: translate(55.06vw, 100vh);
+  }
+}
+@keyframes rain6-115 {
+  to {
+    transform: translate(55.06vw, 100vh);
+  }
+}
+.rain6:nth-child(116) {
+  opacity: 0.3521;
+  transform: translate(57.3471vw, -120px) scale(0.004);
+  -webkit-animation: rain6-116 1s linear 2.3s infinite;
+          animation: rain6-116 1s linear 2.3s infinite;
+}
+@-webkit-keyframes rain6-116 {
+  to {
+    transform: translate(57.3471vw, 100vh);
+  }
+}
+@keyframes rain6-116 {
+  to {
+    transform: translate(57.3471vw, 100vh);
+  }
+}
+.rain6:nth-child(117) {
+  opacity: 0.1812;
+  transform: translate(38.7815vw, -120px) scale(0.004);
+  -webkit-animation: rain6-117 1s linear 3.1s infinite;
+          animation: rain6-117 1s linear 3.1s infinite;
+}
+@-webkit-keyframes rain6-117 {
+  to {
+    transform: translate(38.7815vw, 100vh);
+  }
+}
+@keyframes rain6-117 {
+  to {
+    transform: translate(38.7815vw, 100vh);
+  }
+}
+.rain6:nth-child(118) {
+  opacity: 0.3153;
+  transform: translate(79.4829vw, -120px) scale(0.006);
+  -webkit-animation: rain6-118 1s linear 1.4s infinite;
+          animation: rain6-118 1s linear 1.4s infinite;
+}
+@-webkit-keyframes rain6-118 {
+  to {
+    transform: translate(79.4829vw, 100vh);
+  }
+}
+@keyframes rain6-118 {
+  to {
+    transform: translate(79.4829vw, 100vh);
+  }
+}
+.rain6:nth-child(119) {
+  opacity: 0.111;
+  transform: translate(48.375vw, -120px) scale(0.001);
+  -webkit-animation: rain6-119 1s linear 1.7s infinite;
+          animation: rain6-119 1s linear 1.7s infinite;
+}
+@-webkit-keyframes rain6-119 {
+  to {
+    transform: translate(48.375vw, 100vh);
+  }
+}
+@keyframes rain6-119 {
+  to {
+    transform: translate(48.375vw, 100vh);
+  }
+}
+.rain6:nth-child(120) {
+  opacity: 0.392;
+  transform: translate(80.5354vw, -120px) scale(0.004);
+  -webkit-animation: rain6-120 1s linear 4.6s infinite;
+          animation: rain6-120 1s linear 4.6s infinite;
+}
+@-webkit-keyframes rain6-120 {
+  to {
+    transform: translate(80.5354vw, 100vh);
+  }
+}
+@keyframes rain6-120 {
+  to {
+    transform: translate(80.5354vw, 100vh);
+  }
+}
+.rain6:nth-child(121) {
+  opacity: 0.3158;
+  transform: translate(3.354vw, -120px) scale(0.001);
+  -webkit-animation: rain6-121 1s linear 2.7s infinite;
+          animation: rain6-121 1s linear 2.7s infinite;
+}
+@-webkit-keyframes rain6-121 {
+  to {
+    transform: translate(3.354vw, 100vh);
+  }
+}
+@keyframes rain6-121 {
+  to {
+    transform: translate(3.354vw, 100vh);
+  }
+}
+.rain6:nth-child(122) {
+  opacity: 0.8353;
+  transform: translate(57.1575vw, -120px) scale(0.008);
+  -webkit-animation: rain6-122 1s linear 0.9s infinite;
+          animation: rain6-122 1s linear 0.9s infinite;
+}
+@-webkit-keyframes rain6-122 {
+  to {
+    transform: translate(57.1575vw, 100vh);
+  }
+}
+@keyframes rain6-122 {
+  to {
+    transform: translate(57.1575vw, 100vh);
+  }
+}
+.rain6:nth-child(123) {
+  opacity: 0.864;
+  transform: translate(11.5151vw, -120px) scale(0.002);
+  -webkit-animation: rain6-123 1s linear 4.9s infinite;
+          animation: rain6-123 1s linear 4.9s infinite;
+}
+@-webkit-keyframes rain6-123 {
+  to {
+    transform: translate(11.5151vw, 100vh);
+  }
+}
+@keyframes rain6-123 {
+  to {
+    transform: translate(11.5151vw, 100vh);
+  }
+}
+.rain6:nth-child(124) {
+  opacity: 0.9852;
+  transform: translate(40.4126vw, -120px) scale(0.003);
+  -webkit-animation: rain6-124 1s linear 4.1s infinite;
+          animation: rain6-124 1s linear 4.1s infinite;
+}
+@-webkit-keyframes rain6-124 {
+  to {
+    transform: translate(40.4126vw, 100vh);
+  }
+}
+@keyframes rain6-124 {
+  to {
+    transform: translate(40.4126vw, 100vh);
+  }
+}
+.rain6:nth-child(125) {
+  opacity: 0.7487;
+  transform: translate(90.5628vw, -120px) scale(0.008);
+  -webkit-animation: rain6-125 1s linear 3.1s infinite;
+          animation: rain6-125 1s linear 3.1s infinite;
+}
+@-webkit-keyframes rain6-125 {
+  to {
+    transform: translate(90.5628vw, 100vh);
+  }
+}
+@keyframes rain6-125 {
+  to {
+    transform: translate(90.5628vw, 100vh);
+  }
+}
+.rain6:nth-child(126) {
+  opacity: 0.4742;
+  transform: translate(67.0131vw, -120px) scale(0.01);
+  -webkit-animation: rain6-126 1s linear 4.5s infinite;
+          animation: rain6-126 1s linear 4.5s infinite;
+}
+@-webkit-keyframes rain6-126 {
+  to {
+    transform: translate(67.0131vw, 100vh);
+  }
+}
+@keyframes rain6-126 {
+  to {
+    transform: translate(67.0131vw, 100vh);
+  }
+}
+.rain6:nth-child(127) {
+  opacity: 0.1226;
+  transform: translate(38.5061vw, -120px) scale(0.008);
+  -webkit-animation: rain6-127 1s linear 4.3s infinite;
+          animation: rain6-127 1s linear 4.3s infinite;
+}
+@-webkit-keyframes rain6-127 {
+  to {
+    transform: translate(38.5061vw, 100vh);
+  }
+}
+@keyframes rain6-127 {
+  to {
+    transform: translate(38.5061vw, 100vh);
+  }
+}
+.rain6:nth-child(128) {
+  opacity: 0.3663;
+  transform: translate(83.5316vw, -120px) scale(0.01);
+  -webkit-animation: rain6-128 1s linear 2.5s infinite;
+          animation: rain6-128 1s linear 2.5s infinite;
+}
+@-webkit-keyframes rain6-128 {
+  to {
+    transform: translate(83.5316vw, 100vh);
+  }
+}
+@keyframes rain6-128 {
+  to {
+    transform: translate(83.5316vw, 100vh);
+  }
+}
+.rain6:nth-child(129) {
+  opacity: 0.1386;
+  transform: translate(94.5732vw, -120px) scale(0.002);
+  -webkit-animation: rain6-129 1s linear 5s infinite;
+          animation: rain6-129 1s linear 5s infinite;
+}
+@-webkit-keyframes rain6-129 {
+  to {
+    transform: translate(94.5732vw, 100vh);
+  }
+}
+@keyframes rain6-129 {
+  to {
+    transform: translate(94.5732vw, 100vh);
+  }
+}
+.rain6:nth-child(130) {
+  opacity: 0.3932;
+  transform: translate(86.3606vw, -120px) scale(0.004);
+  -webkit-animation: rain6-130 1s linear 3.9s infinite;
+          animation: rain6-130 1s linear 3.9s infinite;
+}
+@-webkit-keyframes rain6-130 {
+  to {
+    transform: translate(86.3606vw, 100vh);
+  }
+}
+@keyframes rain6-130 {
+  to {
+    transform: translate(86.3606vw, 100vh);
+  }
+}
+.rain6:nth-child(131) {
+  opacity: 0.2524;
+  transform: translate(12.6834vw, -120px) scale(0.007);
+  -webkit-animation: rain6-131 1s linear 4.7s infinite;
+          animation: rain6-131 1s linear 4.7s infinite;
+}
+@-webkit-keyframes rain6-131 {
+  to {
+    transform: translate(12.6834vw, 100vh);
+  }
+}
+@keyframes rain6-131 {
+  to {
+    transform: translate(12.6834vw, 100vh);
+  }
+}
+.rain6:nth-child(132) {
+  opacity: 0.4595;
+  transform: translate(10.9328vw, -120px) scale(0.002);
+  -webkit-animation: rain6-132 1s linear 1.1s infinite;
+          animation: rain6-132 1s linear 1.1s infinite;
+}
+@-webkit-keyframes rain6-132 {
+  to {
+    transform: translate(10.9328vw, 100vh);
+  }
+}
+@keyframes rain6-132 {
+  to {
+    transform: translate(10.9328vw, 100vh);
+  }
+}
+.rain6:nth-child(133) {
+  opacity: 0.7987;
+  transform: translate(82.1048vw, -120px) scale(0.009);
+  -webkit-animation: rain6-133 1s linear 4.8s infinite;
+          animation: rain6-133 1s linear 4.8s infinite;
+}
+@-webkit-keyframes rain6-133 {
+  to {
+    transform: translate(82.1048vw, 100vh);
+  }
+}
+@keyframes rain6-133 {
+  to {
+    transform: translate(82.1048vw, 100vh);
+  }
+}
+.rain6:nth-child(134) {
+  opacity: 0.2331;
+  transform: translate(40.4753vw, -120px) scale(0.004);
+  -webkit-animation: rain6-134 1s linear 1.1s infinite;
+          animation: rain6-134 1s linear 1.1s infinite;
+}
+@-webkit-keyframes rain6-134 {
+  to {
+    transform: translate(40.4753vw, 100vh);
+  }
+}
+@keyframes rain6-134 {
+  to {
+    transform: translate(40.4753vw, 100vh);
+  }
+}
+.rain6:nth-child(135) {
+  opacity: 0.5902;
+  transform: translate(70.168vw, -120px) scale(0.003);
+  -webkit-animation: rain6-135 1s linear 1.1s infinite;
+          animation: rain6-135 1s linear 1.1s infinite;
+}
+@-webkit-keyframes rain6-135 {
+  to {
+    transform: translate(70.168vw, 100vh);
+  }
+}
+@keyframes rain6-135 {
+  to {
+    transform: translate(70.168vw, 100vh);
+  }
+}
+.rain6:nth-child(136) {
+  opacity: 0.2915;
+  transform: translate(39.4385vw, -120px) scale(0.004);
+  -webkit-animation: rain6-136 1s linear 4s infinite;
+          animation: rain6-136 1s linear 4s infinite;
+}
+@-webkit-keyframes rain6-136 {
+  to {
+    transform: translate(39.4385vw, 100vh);
+  }
+}
+@keyframes rain6-136 {
+  to {
+    transform: translate(39.4385vw, 100vh);
+  }
+}
+.rain6:nth-child(137) {
+  opacity: 0.6832;
+  transform: translate(47.9837vw, -120px) scale(0.004);
+  -webkit-animation: rain6-137 1s linear 0.1s infinite;
+          animation: rain6-137 1s linear 0.1s infinite;
+}
+@-webkit-keyframes rain6-137 {
+  to {
+    transform: translate(47.9837vw, 100vh);
+  }
+}
+@keyframes rain6-137 {
+  to {
+    transform: translate(47.9837vw, 100vh);
+  }
+}
+.rain6:nth-child(138) {
+  opacity: 0.5889;
+  transform: translate(76.9116vw, -120px) scale(0.007);
+  -webkit-animation: rain6-138 1s linear 2.9s infinite;
+          animation: rain6-138 1s linear 2.9s infinite;
+}
+@-webkit-keyframes rain6-138 {
+  to {
+    transform: translate(76.9116vw, 100vh);
+  }
+}
+@keyframes rain6-138 {
+  to {
+    transform: translate(76.9116vw, 100vh);
+  }
+}
+.rain6:nth-child(139) {
+  opacity: 0.9873;
+  transform: translate(81.8157vw, -120px) scale(0.007);
+  -webkit-animation: rain6-139 1s linear 3s infinite;
+          animation: rain6-139 1s linear 3s infinite;
+}
+@-webkit-keyframes rain6-139 {
+  to {
+    transform: translate(81.8157vw, 100vh);
+  }
+}
+@keyframes rain6-139 {
+  to {
+    transform: translate(81.8157vw, 100vh);
+  }
+}
+.rain6:nth-child(140) {
+  opacity: 0.7017;
+  transform: translate(97.5932vw, -120px) scale(0.004);
+  -webkit-animation: rain6-140 1s linear 5s infinite;
+          animation: rain6-140 1s linear 5s infinite;
+}
+@-webkit-keyframes rain6-140 {
+  to {
+    transform: translate(97.5932vw, 100vh);
+  }
+}
+@keyframes rain6-140 {
+  to {
+    transform: translate(97.5932vw, 100vh);
+  }
+}
+.rain6:nth-child(141) {
+  opacity: 0.4965;
+  transform: translate(70.827vw, -120px) scale(0.001);
+  -webkit-animation: rain6-141 1s linear 3.9s infinite;
+          animation: rain6-141 1s linear 3.9s infinite;
+}
+@-webkit-keyframes rain6-141 {
+  to {
+    transform: translate(70.827vw, 100vh);
+  }
+}
+@keyframes rain6-141 {
+  to {
+    transform: translate(70.827vw, 100vh);
+  }
+}
+.rain6:nth-child(142) {
+  opacity: 0.35;
+  transform: translate(63.5753vw, -120px) scale(0.006);
+  -webkit-animation: rain6-142 1s linear 3.2s infinite;
+          animation: rain6-142 1s linear 3.2s infinite;
+}
+@-webkit-keyframes rain6-142 {
+  to {
+    transform: translate(63.5753vw, 100vh);
+  }
+}
+@keyframes rain6-142 {
+  to {
+    transform: translate(63.5753vw, 100vh);
+  }
+}
+.rain6:nth-child(143) {
+  opacity: 0.8386;
+  transform: translate(41.301vw, -120px) scale(0.004);
+  -webkit-animation: rain6-143 1s linear 2s infinite;
+          animation: rain6-143 1s linear 2s infinite;
+}
+@-webkit-keyframes rain6-143 {
+  to {
+    transform: translate(41.301vw, 100vh);
+  }
+}
+@keyframes rain6-143 {
+  to {
+    transform: translate(41.301vw, 100vh);
+  }
+}
+.rain6:nth-child(144) {
+  opacity: 0.0667;
+  transform: translate(40.6532vw, -120px) scale(0.004);
+  -webkit-animation: rain6-144 1s linear 4.4s infinite;
+          animation: rain6-144 1s linear 4.4s infinite;
+}
+@-webkit-keyframes rain6-144 {
+  to {
+    transform: translate(40.6532vw, 100vh);
+  }
+}
+@keyframes rain6-144 {
+  to {
+    transform: translate(40.6532vw, 100vh);
+  }
+}
+.rain6:nth-child(145) {
+  opacity: 0.0453;
+  transform: translate(12.3249vw, -120px) scale(0.006);
+  -webkit-animation: rain6-145 1s linear 0.4s infinite;
+          animation: rain6-145 1s linear 0.4s infinite;
+}
+@-webkit-keyframes rain6-145 {
+  to {
+    transform: translate(12.3249vw, 100vh);
+  }
+}
+@keyframes rain6-145 {
+  to {
+    transform: translate(12.3249vw, 100vh);
+  }
+}
+.rain6:nth-child(146) {
+  opacity: 0.4659;
+  transform: translate(3.2697vw, -120px) scale(0.009);
+  -webkit-animation: rain6-146 1s linear 3.7s infinite;
+          animation: rain6-146 1s linear 3.7s infinite;
+}
+@-webkit-keyframes rain6-146 {
+  to {
+    transform: translate(3.2697vw, 100vh);
+  }
+}
+@keyframes rain6-146 {
+  to {
+    transform: translate(3.2697vw, 100vh);
+  }
+}
+.rain6:nth-child(147) {
+  opacity: 0.598;
+  transform: translate(58.5499vw, -120px) scale(0.009);
+  -webkit-animation: rain6-147 1s linear 1.9s infinite;
+          animation: rain6-147 1s linear 1.9s infinite;
+}
+@-webkit-keyframes rain6-147 {
+  to {
+    transform: translate(58.5499vw, 100vh);
+  }
+}
+@keyframes rain6-147 {
+  to {
+    transform: translate(58.5499vw, 100vh);
+  }
+}
+.rain6:nth-child(148) {
+  opacity: 0.018;
+  transform: translate(42.2584vw, -120px) scale(0.003);
+  -webkit-animation: rain6-148 1s linear 2.6s infinite;
+          animation: rain6-148 1s linear 2.6s infinite;
+}
+@-webkit-keyframes rain6-148 {
+  to {
+    transform: translate(42.2584vw, 100vh);
+  }
+}
+@keyframes rain6-148 {
+  to {
+    transform: translate(42.2584vw, 100vh);
+  }
+}
+.rain6:nth-child(149) {
+  opacity: 0.4538;
+  transform: translate(62.9753vw, -120px) scale(0.001);
+  -webkit-animation: rain6-149 1s linear 2.5s infinite;
+          animation: rain6-149 1s linear 2.5s infinite;
+}
+@-webkit-keyframes rain6-149 {
+  to {
+    transform: translate(62.9753vw, 100vh);
+  }
+}
+@keyframes rain6-149 {
+  to {
+    transform: translate(62.9753vw, 100vh);
+  }
+}
+.rain6:nth-child(150) {
+  opacity: 0.2471;
+  transform: translate(32.8134vw, -120px) scale(0.002);
+  -webkit-animation: rain6-150 1s linear 1.5s infinite;
+          animation: rain6-150 1s linear 1.5s infinite;
+}
+@-webkit-keyframes rain6-150 {
+  to {
+    transform: translate(32.8134vw, 100vh);
+  }
+}
+@keyframes rain6-150 {
+  to {
+    transform: translate(32.8134vw, 100vh);
+  }
+}
+.rain6:nth-child(151) {
+  opacity: 0.604;
+  transform: translate(30.816vw, -120px) scale(0.008);
+  -webkit-animation: rain6-151 1s linear 3.9s infinite;
+          animation: rain6-151 1s linear 3.9s infinite;
+}
+@-webkit-keyframes rain6-151 {
+  to {
+    transform: translate(30.816vw, 100vh);
+  }
+}
+@keyframes rain6-151 {
+  to {
+    transform: translate(30.816vw, 100vh);
+  }
+}
+.rain6:nth-child(152) {
+  opacity: 0.376;
+  transform: translate(81.223vw, -120px) scale(0.005);
+  -webkit-animation: rain6-152 1s linear 1s infinite;
+          animation: rain6-152 1s linear 1s infinite;
+}
+@-webkit-keyframes rain6-152 {
+  to {
+    transform: translate(81.223vw, 100vh);
+  }
+}
+@keyframes rain6-152 {
+  to {
+    transform: translate(81.223vw, 100vh);
+  }
+}
+.rain6:nth-child(153) {
+  opacity: 0.891;
+  transform: translate(68.3016vw, -120px) scale(0.005);
+  -webkit-animation: rain6-153 1s linear 0.7s infinite;
+          animation: rain6-153 1s linear 0.7s infinite;
+}
+@-webkit-keyframes rain6-153 {
+  to {
+    transform: translate(68.3016vw, 100vh);
+  }
+}
+@keyframes rain6-153 {
+  to {
+    transform: translate(68.3016vw, 100vh);
+  }
+}
+.rain6:nth-child(154) {
+  opacity: 0.8569;
+  transform: translate(81.4552vw, -120px) scale(0.006);
+  -webkit-animation: rain6-154 1s linear 1.6s infinite;
+          animation: rain6-154 1s linear 1.6s infinite;
+}
+@-webkit-keyframes rain6-154 {
+  to {
+    transform: translate(81.4552vw, 100vh);
+  }
+}
+@keyframes rain6-154 {
+  to {
+    transform: translate(81.4552vw, 100vh);
+  }
+}
+.rain6:nth-child(155) {
+  opacity: 0.4098;
+  transform: translate(22.801vw, -120px) scale(0.004);
+  -webkit-animation: rain6-155 1s linear 3.9s infinite;
+          animation: rain6-155 1s linear 3.9s infinite;
+}
+@-webkit-keyframes rain6-155 {
+  to {
+    transform: translate(22.801vw, 100vh);
+  }
+}
+@keyframes rain6-155 {
+  to {
+    transform: translate(22.801vw, 100vh);
+  }
+}
+.rain6:nth-child(156) {
+  opacity: 0.5484;
+  transform: translate(10.8795vw, -120px) scale(0.009);
+  -webkit-animation: rain6-156 1s linear 2.2s infinite;
+          animation: rain6-156 1s linear 2.2s infinite;
+}
+@-webkit-keyframes rain6-156 {
+  to {
+    transform: translate(10.8795vw, 100vh);
+  }
+}
+@keyframes rain6-156 {
+  to {
+    transform: translate(10.8795vw, 100vh);
+  }
+}
+.rain6:nth-child(157) {
+  opacity: 0.4095;
+  transform: translate(86.6334vw, -120px) scale(0.004);
+  -webkit-animation: rain6-157 1s linear 0.5s infinite;
+          animation: rain6-157 1s linear 0.5s infinite;
+}
+@-webkit-keyframes rain6-157 {
+  to {
+    transform: translate(86.6334vw, 100vh);
+  }
+}
+@keyframes rain6-157 {
+  to {
+    transform: translate(86.6334vw, 100vh);
+  }
+}
+.rain6:nth-child(158) {
+  opacity: 0.6152;
+  transform: translate(57.4349vw, -120px) scale(0.009);
+  -webkit-animation: rain6-158 1s linear 2.8s infinite;
+          animation: rain6-158 1s linear 2.8s infinite;
+}
+@-webkit-keyframes rain6-158 {
+  to {
+    transform: translate(57.4349vw, 100vh);
+  }
+}
+@keyframes rain6-158 {
+  to {
+    transform: translate(57.4349vw, 100vh);
+  }
+}
+.rain6:nth-child(159) {
+  opacity: 0.6226;
+  transform: translate(41.1619vw, -120px) scale(0.01);
+  -webkit-animation: rain6-159 1s linear 3.1s infinite;
+          animation: rain6-159 1s linear 3.1s infinite;
+}
+@-webkit-keyframes rain6-159 {
+  to {
+    transform: translate(41.1619vw, 100vh);
+  }
+}
+@keyframes rain6-159 {
+  to {
+    transform: translate(41.1619vw, 100vh);
+  }
+}
+.rain6:nth-child(160) {
+  opacity: 0.8309;
+  transform: translate(1.7989vw, -120px) scale(0.004);
+  -webkit-animation: rain6-160 1s linear 1s infinite;
+          animation: rain6-160 1s linear 1s infinite;
+}
+@-webkit-keyframes rain6-160 {
+  to {
+    transform: translate(1.7989vw, 100vh);
+  }
+}
+@keyframes rain6-160 {
+  to {
+    transform: translate(1.7989vw, 100vh);
+  }
+}
+.rain6:nth-child(161) {
+  opacity: 0.1233;
+  transform: translate(97.3092vw, -120px) scale(0.008);
+  -webkit-animation: rain6-161 1s linear 1.9s infinite;
+          animation: rain6-161 1s linear 1.9s infinite;
+}
+@-webkit-keyframes rain6-161 {
+  to {
+    transform: translate(97.3092vw, 100vh);
+  }
+}
+@keyframes rain6-161 {
+  to {
+    transform: translate(97.3092vw, 100vh);
+  }
+}
+.rain6:nth-child(162) {
+  opacity: 0.5424;
+  transform: translate(65.7573vw, -120px) scale(0.009);
+  -webkit-animation: rain6-162 1s linear 3.6s infinite;
+          animation: rain6-162 1s linear 3.6s infinite;
+}
+@-webkit-keyframes rain6-162 {
+  to {
+    transform: translate(65.7573vw, 100vh);
+  }
+}
+@keyframes rain6-162 {
+  to {
+    transform: translate(65.7573vw, 100vh);
+  }
+}
+.rain6:nth-child(163) {
+  opacity: 0.6696;
+  transform: translate(24.0356vw, -120px) scale(0.002);
+  -webkit-animation: rain6-163 1s linear 2.5s infinite;
+          animation: rain6-163 1s linear 2.5s infinite;
+}
+@-webkit-keyframes rain6-163 {
+  to {
+    transform: translate(24.0356vw, 100vh);
+  }
+}
+@keyframes rain6-163 {
+  to {
+    transform: translate(24.0356vw, 100vh);
+  }
+}
+.rain6:nth-child(164) {
+  opacity: 0.7962;
+  transform: translate(15.3173vw, -120px) scale(0.001);
+  -webkit-animation: rain6-164 1s linear 1.7s infinite;
+          animation: rain6-164 1s linear 1.7s infinite;
+}
+@-webkit-keyframes rain6-164 {
+  to {
+    transform: translate(15.3173vw, 100vh);
+  }
+}
+@keyframes rain6-164 {
+  to {
+    transform: translate(15.3173vw, 100vh);
+  }
+}
+.rain6:nth-child(165) {
+  opacity: 0.849;
+  transform: translate(15.2248vw, -120px) scale(0.003);
+  -webkit-animation: rain6-165 1s linear 3.6s infinite;
+          animation: rain6-165 1s linear 3.6s infinite;
+}
+@-webkit-keyframes rain6-165 {
+  to {
+    transform: translate(15.2248vw, 100vh);
+  }
+}
+@keyframes rain6-165 {
+  to {
+    transform: translate(15.2248vw, 100vh);
+  }
+}
+.rain6:nth-child(166) {
+  opacity: 0.1289;
+  transform: translate(71.9583vw, -120px) scale(0.01);
+  -webkit-animation: rain6-166 1s linear 2.4s infinite;
+          animation: rain6-166 1s linear 2.4s infinite;
+}
+@-webkit-keyframes rain6-166 {
+  to {
+    transform: translate(71.9583vw, 100vh);
+  }
+}
+@keyframes rain6-166 {
+  to {
+    transform: translate(71.9583vw, 100vh);
+  }
+}
+.rain6:nth-child(167) {
+  opacity: 0.9035;
+  transform: translate(95.8749vw, -120px) scale(0.007);
+  -webkit-animation: rain6-167 1s linear 4.1s infinite;
+          animation: rain6-167 1s linear 4.1s infinite;
+}
+@-webkit-keyframes rain6-167 {
+  to {
+    transform: translate(95.8749vw, 100vh);
+  }
+}
+@keyframes rain6-167 {
+  to {
+    transform: translate(95.8749vw, 100vh);
+  }
+}
+.rain6:nth-child(168) {
+  opacity: 0.8695;
+  transform: translate(84.5127vw, -120px) scale(0.008);
+  -webkit-animation: rain6-168 1s linear 3.5s infinite;
+          animation: rain6-168 1s linear 3.5s infinite;
+}
+@-webkit-keyframes rain6-168 {
+  to {
+    transform: translate(84.5127vw, 100vh);
+  }
+}
+@keyframes rain6-168 {
+  to {
+    transform: translate(84.5127vw, 100vh);
+  }
+}
+.rain6:nth-child(169) {
+  opacity: 0.738;
+  transform: translate(71.3918vw, -120px) scale(0.01);
+  -webkit-animation: rain6-169 1s linear 4.6s infinite;
+          animation: rain6-169 1s linear 4.6s infinite;
+}
+@-webkit-keyframes rain6-169 {
+  to {
+    transform: translate(71.3918vw, 100vh);
+  }
+}
+@keyframes rain6-169 {
+  to {
+    transform: translate(71.3918vw, 100vh);
+  }
+}
+.rain6:nth-child(170) {
+  opacity: 0.3089;
+  transform: translate(93.7566vw, -120px) scale(0.009);
+  -webkit-animation: rain6-170 1s linear 4.7s infinite;
+          animation: rain6-170 1s linear 4.7s infinite;
+}
+@-webkit-keyframes rain6-170 {
+  to {
+    transform: translate(93.7566vw, 100vh);
+  }
+}
+@keyframes rain6-170 {
+  to {
+    transform: translate(93.7566vw, 100vh);
+  }
+}
+.rain6:nth-child(171) {
+  opacity: 0.3714;
+  transform: translate(88.9454vw, -120px) scale(0.006);
+  -webkit-animation: rain6-171 1s linear 4.8s infinite;
+          animation: rain6-171 1s linear 4.8s infinite;
+}
+@-webkit-keyframes rain6-171 {
+  to {
+    transform: translate(88.9454vw, 100vh);
+  }
+}
+@keyframes rain6-171 {
+  to {
+    transform: translate(88.9454vw, 100vh);
+  }
+}
+.rain6:nth-child(172) {
+  opacity: 0.4802;
+  transform: translate(57.9491vw, -120px) scale(0.002);
+  -webkit-animation: rain6-172 1s linear 1.5s infinite;
+          animation: rain6-172 1s linear 1.5s infinite;
+}
+@-webkit-keyframes rain6-172 {
+  to {
+    transform: translate(57.9491vw, 100vh);
+  }
+}
+@keyframes rain6-172 {
+  to {
+    transform: translate(57.9491vw, 100vh);
+  }
+}
+.rain6:nth-child(173) {
+  opacity: 0.4001;
+  transform: translate(55.8872vw, -120px) scale(0.008);
+  -webkit-animation: rain6-173 1s linear 0.3s infinite;
+          animation: rain6-173 1s linear 0.3s infinite;
+}
+@-webkit-keyframes rain6-173 {
+  to {
+    transform: translate(55.8872vw, 100vh);
+  }
+}
+@keyframes rain6-173 {
+  to {
+    transform: translate(55.8872vw, 100vh);
+  }
+}
+.rain6:nth-child(174) {
+  opacity: 0.1216;
+  transform: translate(66.1621vw, -120px) scale(0.008);
+  -webkit-animation: rain6-174 1s linear 4.4s infinite;
+          animation: rain6-174 1s linear 4.4s infinite;
+}
+@-webkit-keyframes rain6-174 {
+  to {
+    transform: translate(66.1621vw, 100vh);
+  }
+}
+@keyframes rain6-174 {
+  to {
+    transform: translate(66.1621vw, 100vh);
+  }
+}
+.rain6:nth-child(175) {
+  opacity: 0.5862;
+  transform: translate(37.4622vw, -120px) scale(0.01);
+  -webkit-animation: rain6-175 1s linear 3s infinite;
+          animation: rain6-175 1s linear 3s infinite;
+}
+@-webkit-keyframes rain6-175 {
+  to {
+    transform: translate(37.4622vw, 100vh);
+  }
+}
+@keyframes rain6-175 {
+  to {
+    transform: translate(37.4622vw, 100vh);
+  }
+}
+.rain6:nth-child(176) {
+  opacity: 0.2228;
+  transform: translate(49.4068vw, -120px) scale(0.004);
+  -webkit-animation: rain6-176 1s linear 1.7s infinite;
+          animation: rain6-176 1s linear 1.7s infinite;
+}
+@-webkit-keyframes rain6-176 {
+  to {
+    transform: translate(49.4068vw, 100vh);
+  }
+}
+@keyframes rain6-176 {
+  to {
+    transform: translate(49.4068vw, 100vh);
+  }
+}
+.rain6:nth-child(177) {
+  opacity: 0.3721;
+  transform: translate(5.7797vw, -120px) scale(0.006);
+  -webkit-animation: rain6-177 1s linear 2.9s infinite;
+          animation: rain6-177 1s linear 2.9s infinite;
+}
+@-webkit-keyframes rain6-177 {
+  to {
+    transform: translate(5.7797vw, 100vh);
+  }
+}
+@keyframes rain6-177 {
+  to {
+    transform: translate(5.7797vw, 100vh);
+  }
+}
+.rain6:nth-child(178) {
+  opacity: 0.0898;
+  transform: translate(9.0433vw, -120px) scale(0.01);
+  -webkit-animation: rain6-178 1s linear 3.7s infinite;
+          animation: rain6-178 1s linear 3.7s infinite;
+}
+@-webkit-keyframes rain6-178 {
+  to {
+    transform: translate(9.0433vw, 100vh);
+  }
+}
+@keyframes rain6-178 {
+  to {
+    transform: translate(9.0433vw, 100vh);
+  }
+}
+.rain6:nth-child(179) {
+  opacity: 0.7344;
+  transform: translate(49.2929vw, -120px) scale(0.001);
+  -webkit-animation: rain6-179 1s linear 3.1s infinite;
+          animation: rain6-179 1s linear 3.1s infinite;
+}
+@-webkit-keyframes rain6-179 {
+  to {
+    transform: translate(49.2929vw, 100vh);
+  }
+}
+@keyframes rain6-179 {
+  to {
+    transform: translate(49.2929vw, 100vh);
+  }
+}
+.rain6:nth-child(180) {
+  opacity: 0.1772;
+  transform: translate(49.728vw, -120px) scale(0.006);
+  -webkit-animation: rain6-180 1s linear 3.2s infinite;
+          animation: rain6-180 1s linear 3.2s infinite;
+}
+@-webkit-keyframes rain6-180 {
+  to {
+    transform: translate(49.728vw, 100vh);
+  }
+}
+@keyframes rain6-180 {
+  to {
+    transform: translate(49.728vw, 100vh);
+  }
+}
+.rain6:nth-child(181) {
+  opacity: 0.9028;
+  transform: translate(45.0358vw, -120px) scale(0.001);
+  -webkit-animation: rain6-181 1s linear 1.5s infinite;
+          animation: rain6-181 1s linear 1.5s infinite;
+}
+@-webkit-keyframes rain6-181 {
+  to {
+    transform: translate(45.0358vw, 100vh);
+  }
+}
+@keyframes rain6-181 {
+  to {
+    transform: translate(45.0358vw, 100vh);
+  }
+}
+.rain6:nth-child(182) {
+  opacity: 0.0449;
+  transform: translate(10.7763vw, -120px) scale(0.005);
+  -webkit-animation: rain6-182 1s linear 0.8s infinite;
+          animation: rain6-182 1s linear 0.8s infinite;
+}
+@-webkit-keyframes rain6-182 {
+  to {
+    transform: translate(10.7763vw, 100vh);
+  }
+}
+@keyframes rain6-182 {
+  to {
+    transform: translate(10.7763vw, 100vh);
+  }
+}
+.rain6:nth-child(183) {
+  opacity: 0.9208;
+  transform: translate(17.1604vw, -120px) scale(0.007);
+  -webkit-animation: rain6-183 1s linear 4.3s infinite;
+          animation: rain6-183 1s linear 4.3s infinite;
+}
+@-webkit-keyframes rain6-183 {
+  to {
+    transform: translate(17.1604vw, 100vh);
+  }
+}
+@keyframes rain6-183 {
+  to {
+    transform: translate(17.1604vw, 100vh);
+  }
+}
+.rain6:nth-child(184) {
+  opacity: 0.5953;
+  transform: translate(15.5718vw, -120px) scale(0.006);
+  -webkit-animation: rain6-184 1s linear 4.3s infinite;
+          animation: rain6-184 1s linear 4.3s infinite;
+}
+@-webkit-keyframes rain6-184 {
+  to {
+    transform: translate(15.5718vw, 100vh);
+  }
+}
+@keyframes rain6-184 {
+  to {
+    transform: translate(15.5718vw, 100vh);
+  }
+}
+.rain6:nth-child(185) {
+  opacity: 0.555;
+  transform: translate(65.1464vw, -120px) scale(0.01);
+  -webkit-animation: rain6-185 1s linear 5s infinite;
+          animation: rain6-185 1s linear 5s infinite;
+}
+@-webkit-keyframes rain6-185 {
+  to {
+    transform: translate(65.1464vw, 100vh);
+  }
+}
+@keyframes rain6-185 {
+  to {
+    transform: translate(65.1464vw, 100vh);
+  }
+}
+.rain6:nth-child(186) {
+  opacity: 0.1481;
+  transform: translate(57.872vw, -120px) scale(0.006);
+  -webkit-animation: rain6-186 1s linear 4.9s infinite;
+          animation: rain6-186 1s linear 4.9s infinite;
+}
+@-webkit-keyframes rain6-186 {
+  to {
+    transform: translate(57.872vw, 100vh);
+  }
+}
+@keyframes rain6-186 {
+  to {
+    transform: translate(57.872vw, 100vh);
+  }
+}
+.rain6:nth-child(187) {
+  opacity: 0.1895;
+  transform: translate(18.4621vw, -120px) scale(0.001);
+  -webkit-animation: rain6-187 1s linear 0.5s infinite;
+          animation: rain6-187 1s linear 0.5s infinite;
+}
+@-webkit-keyframes rain6-187 {
+  to {
+    transform: translate(18.4621vw, 100vh);
+  }
+}
+@keyframes rain6-187 {
+  to {
+    transform: translate(18.4621vw, 100vh);
+  }
+}
+.rain6:nth-child(188) {
+  opacity: 0.1691;
+  transform: translate(27.863vw, -120px) scale(0.002);
+  -webkit-animation: rain6-188 1s linear 3.8s infinite;
+          animation: rain6-188 1s linear 3.8s infinite;
+}
+@-webkit-keyframes rain6-188 {
+  to {
+    transform: translate(27.863vw, 100vh);
+  }
+}
+@keyframes rain6-188 {
+  to {
+    transform: translate(27.863vw, 100vh);
+  }
+}
+.rain6:nth-child(189) {
+  opacity: 0.6986;
+  transform: translate(49.5708vw, -120px) scale(0.007);
+  -webkit-animation: rain6-189 1s linear 2.3s infinite;
+          animation: rain6-189 1s linear 2.3s infinite;
+}
+@-webkit-keyframes rain6-189 {
+  to {
+    transform: translate(49.5708vw, 100vh);
+  }
+}
+@keyframes rain6-189 {
+  to {
+    transform: translate(49.5708vw, 100vh);
+  }
+}
+.rain6:nth-child(190) {
+  opacity: 0.3564;
+  transform: translate(3.6396vw, -120px) scale(0.007);
+  -webkit-animation: rain6-190 1s linear 4.8s infinite;
+          animation: rain6-190 1s linear 4.8s infinite;
+}
+@-webkit-keyframes rain6-190 {
+  to {
+    transform: translate(3.6396vw, 100vh);
+  }
+}
+@keyframes rain6-190 {
+  to {
+    transform: translate(3.6396vw, 100vh);
+  }
+}
+.rain6:nth-child(191) {
+  opacity: 0.7429;
+  transform: translate(35.8494vw, -120px) scale(0.004);
+  -webkit-animation: rain6-191 1s linear 0.9s infinite;
+          animation: rain6-191 1s linear 0.9s infinite;
+}
+@-webkit-keyframes rain6-191 {
+  to {
+    transform: translate(35.8494vw, 100vh);
+  }
+}
+@keyframes rain6-191 {
+  to {
+    transform: translate(35.8494vw, 100vh);
+  }
+}
+.rain6:nth-child(192) {
+  opacity: 0.5365;
+  transform: translate(64.6153vw, -120px) scale(0.005);
+  -webkit-animation: rain6-192 1s linear 0.6s infinite;
+          animation: rain6-192 1s linear 0.6s infinite;
+}
+@-webkit-keyframes rain6-192 {
+  to {
+    transform: translate(64.6153vw, 100vh);
+  }
+}
+@keyframes rain6-192 {
+  to {
+    transform: translate(64.6153vw, 100vh);
+  }
+}
+.rain6:nth-child(193) {
+  opacity: 0.1549;
+  transform: translate(55.1019vw, -120px) scale(0.002);
+  -webkit-animation: rain6-193 1s linear 3.2s infinite;
+          animation: rain6-193 1s linear 3.2s infinite;
+}
+@-webkit-keyframes rain6-193 {
+  to {
+    transform: translate(55.1019vw, 100vh);
+  }
+}
+@keyframes rain6-193 {
+  to {
+    transform: translate(55.1019vw, 100vh);
+  }
+}
+.rain6:nth-child(194) {
+  opacity: 0.2541;
+  transform: translate(88.5805vw, -120px) scale(0.004);
+  -webkit-animation: rain6-194 1s linear 1.6s infinite;
+          animation: rain6-194 1s linear 1.6s infinite;
+}
+@-webkit-keyframes rain6-194 {
+  to {
+    transform: translate(88.5805vw, 100vh);
+  }
+}
+@keyframes rain6-194 {
+  to {
+    transform: translate(88.5805vw, 100vh);
+  }
+}
+.rain6:nth-child(195) {
+  opacity: 0.4645;
+  transform: translate(40.8132vw, -120px) scale(0.003);
+  -webkit-animation: rain6-195 1s linear 3.7s infinite;
+          animation: rain6-195 1s linear 3.7s infinite;
+}
+@-webkit-keyframes rain6-195 {
+  to {
+    transform: translate(40.8132vw, 100vh);
+  }
+}
+@keyframes rain6-195 {
+  to {
+    transform: translate(40.8132vw, 100vh);
+  }
+}
+.rain6:nth-child(196) {
+  opacity: 0.8823;
+  transform: translate(54.1707vw, -120px) scale(0.007);
+  -webkit-animation: rain6-196 1s linear 3.7s infinite;
+          animation: rain6-196 1s linear 3.7s infinite;
+}
+@-webkit-keyframes rain6-196 {
+  to {
+    transform: translate(54.1707vw, 100vh);
+  }
+}
+@keyframes rain6-196 {
+  to {
+    transform: translate(54.1707vw, 100vh);
+  }
+}
+.rain6:nth-child(197) {
+  opacity: 0.3089;
+  transform: translate(1.1867vw, -120px) scale(0.006);
+  -webkit-animation: rain6-197 1s linear 2.7s infinite;
+          animation: rain6-197 1s linear 2.7s infinite;
+}
+@-webkit-keyframes rain6-197 {
+  to {
+    transform: translate(1.1867vw, 100vh);
+  }
+}
+@keyframes rain6-197 {
+  to {
+    transform: translate(1.1867vw, 100vh);
+  }
+}
+.rain6:nth-child(198) {
+  opacity: 0.5326;
+  transform: translate(36.5817vw, -120px) scale(0.006);
+  -webkit-animation: rain6-198 1s linear 4.1s infinite;
+          animation: rain6-198 1s linear 4.1s infinite;
+}
+@-webkit-keyframes rain6-198 {
+  to {
+    transform: translate(36.5817vw, 100vh);
+  }
+}
+@keyframes rain6-198 {
+  to {
+    transform: translate(36.5817vw, 100vh);
+  }
+}
+.rain6:nth-child(199) {
+  opacity: 0.4488;
+  transform: translate(64.2711vw, -120px) scale(0.007);
+  -webkit-animation: rain6-199 1s linear 0.5s infinite;
+          animation: rain6-199 1s linear 0.5s infinite;
+}
+@-webkit-keyframes rain6-199 {
+  to {
+    transform: translate(64.2711vw, 100vh);
+  }
+}
+@keyframes rain6-199 {
+  to {
+    transform: translate(64.2711vw, 100vh);
+  }
+}
+.rain6:nth-child(200) {
+  opacity: 0.6318;
+  transform: translate(51.2829vw, -120px) scale(0.002);
+  -webkit-animation: rain6-200 1s linear 0.5s infinite;
+          animation: rain6-200 1s linear 0.5s infinite;
+}
+@-webkit-keyframes rain6-200 {
+  to {
+    transform: translate(51.2829vw, 100vh);
+  }
+}
+@keyframes rain6-200 {
+  to {
+    transform: translate(51.2829vw, 100vh);
+  }
+}
+.rain6:nth-child(201) {
+  opacity: 0.7887;
+  transform: translate(43.6628vw, -120px) scale(0.01);
+  -webkit-animation: rain6-201 1s linear 4.6s infinite;
+          animation: rain6-201 1s linear 4.6s infinite;
+}
+@-webkit-keyframes rain6-201 {
+  to {
+    transform: translate(43.6628vw, 100vh);
+  }
+}
+@keyframes rain6-201 {
+  to {
+    transform: translate(43.6628vw, 100vh);
+  }
+}
+.rain6:nth-child(202) {
+  opacity: 0.4808;
+  transform: translate(90.6584vw, -120px) scale(0.001);
+  -webkit-animation: rain6-202 1s linear 3.6s infinite;
+          animation: rain6-202 1s linear 3.6s infinite;
+}
+@-webkit-keyframes rain6-202 {
+  to {
+    transform: translate(90.6584vw, 100vh);
+  }
+}
+@keyframes rain6-202 {
+  to {
+    transform: translate(90.6584vw, 100vh);
+  }
+}
+.rain6:nth-child(203) {
+  opacity: 0.6221;
+  transform: translate(74.0959vw, -120px) scale(0.007);
+  -webkit-animation: rain6-203 1s linear 1.7s infinite;
+          animation: rain6-203 1s linear 1.7s infinite;
+}
+@-webkit-keyframes rain6-203 {
+  to {
+    transform: translate(74.0959vw, 100vh);
+  }
+}
+@keyframes rain6-203 {
+  to {
+    transform: translate(74.0959vw, 100vh);
+  }
+}
+.rain6:nth-child(204) {
+  opacity: 0.7565;
+  transform: translate(36.422vw, -120px) scale(0.002);
+  -webkit-animation: rain6-204 1s linear 3.3s infinite;
+          animation: rain6-204 1s linear 3.3s infinite;
+}
+@-webkit-keyframes rain6-204 {
+  to {
+    transform: translate(36.422vw, 100vh);
+  }
+}
+@keyframes rain6-204 {
+  to {
+    transform: translate(36.422vw, 100vh);
+  }
+}
+.rain6:nth-child(205) {
+  opacity: 0.1882;
+  transform: translate(90.5446vw, -120px) scale(0.01);
+  -webkit-animation: rain6-205 1s linear 3.2s infinite;
+          animation: rain6-205 1s linear 3.2s infinite;
+}
+@-webkit-keyframes rain6-205 {
+  to {
+    transform: translate(90.5446vw, 100vh);
+  }
+}
+@keyframes rain6-205 {
+  to {
+    transform: translate(90.5446vw, 100vh);
+  }
+}
+.rain6:nth-child(206) {
+  opacity: 0.6741;
+  transform: translate(58.3097vw, -120px) scale(0.005);
+  -webkit-animation: rain6-206 1s linear 3.6s infinite;
+          animation: rain6-206 1s linear 3.6s infinite;
+}
+@-webkit-keyframes rain6-206 {
+  to {
+    transform: translate(58.3097vw, 100vh);
+  }
+}
+@keyframes rain6-206 {
+  to {
+    transform: translate(58.3097vw, 100vh);
+  }
+}
+.rain6:nth-child(207) {
+  opacity: 0.2208;
+  transform: translate(19.388vw, -120px) scale(0.008);
+  -webkit-animation: rain6-207 1s linear 4.6s infinite;
+          animation: rain6-207 1s linear 4.6s infinite;
+}
+@-webkit-keyframes rain6-207 {
+  to {
+    transform: translate(19.388vw, 100vh);
+  }
+}
+@keyframes rain6-207 {
+  to {
+    transform: translate(19.388vw, 100vh);
+  }
+}
+.rain6:nth-child(208) {
+  opacity: 0.9725;
+  transform: translate(91.4092vw, -120px) scale(0.01);
+  -webkit-animation: rain6-208 1s linear 4.8s infinite;
+          animation: rain6-208 1s linear 4.8s infinite;
+}
+@-webkit-keyframes rain6-208 {
+  to {
+    transform: translate(91.4092vw, 100vh);
+  }
+}
+@keyframes rain6-208 {
+  to {
+    transform: translate(91.4092vw, 100vh);
+  }
+}
+.rain6:nth-child(209) {
+  opacity: 0.3725;
+  transform: translate(28.5779vw, -120px) scale(0.008);
+  -webkit-animation: rain6-209 1s linear 0.2s infinite;
+          animation: rain6-209 1s linear 0.2s infinite;
+}
+@-webkit-keyframes rain6-209 {
+  to {
+    transform: translate(28.5779vw, 100vh);
+  }
+}
+@keyframes rain6-209 {
+  to {
+    transform: translate(28.5779vw, 100vh);
+  }
+}
+.rain6:nth-child(210) {
+  opacity: 0.379;
+  transform: translate(8.2592vw, -120px) scale(0.007);
+  -webkit-animation: rain6-210 1s linear 1.4s infinite;
+          animation: rain6-210 1s linear 1.4s infinite;
+}
+@-webkit-keyframes rain6-210 {
+  to {
+    transform: translate(8.2592vw, 100vh);
+  }
+}
+@keyframes rain6-210 {
+  to {
+    transform: translate(8.2592vw, 100vh);
+  }
+}
+.rain6:nth-child(211) {
+  opacity: 0.6102;
+  transform: translate(23.4488vw, -120px) scale(0.009);
+  -webkit-animation: rain6-211 1s linear 1.9s infinite;
+          animation: rain6-211 1s linear 1.9s infinite;
+}
+@-webkit-keyframes rain6-211 {
+  to {
+    transform: translate(23.4488vw, 100vh);
+  }
+}
+@keyframes rain6-211 {
+  to {
+    transform: translate(23.4488vw, 100vh);
+  }
+}
+.rain6:nth-child(212) {
+  opacity: 0.2984;
+  transform: translate(39.7737vw, -120px) scale(0.008);
+  -webkit-animation: rain6-212 1s linear 0.2s infinite;
+          animation: rain6-212 1s linear 0.2s infinite;
+}
+@-webkit-keyframes rain6-212 {
+  to {
+    transform: translate(39.7737vw, 100vh);
+  }
+}
+@keyframes rain6-212 {
+  to {
+    transform: translate(39.7737vw, 100vh);
+  }
+}
+.rain6:nth-child(213) {
+  opacity: 0.9589;
+  transform: translate(9.5583vw, -120px) scale(0.003);
+  -webkit-animation: rain6-213 1s linear 2.6s infinite;
+          animation: rain6-213 1s linear 2.6s infinite;
+}
+@-webkit-keyframes rain6-213 {
+  to {
+    transform: translate(9.5583vw, 100vh);
+  }
+}
+@keyframes rain6-213 {
+  to {
+    transform: translate(9.5583vw, 100vh);
+  }
+}
+.rain6:nth-child(214) {
+  opacity: 0.31;
+  transform: translate(98.8833vw, -120px) scale(0.008);
+  -webkit-animation: rain6-214 1s linear 3.1s infinite;
+          animation: rain6-214 1s linear 3.1s infinite;
+}
+@-webkit-keyframes rain6-214 {
+  to {
+    transform: translate(98.8833vw, 100vh);
+  }
+}
+@keyframes rain6-214 {
+  to {
+    transform: translate(98.8833vw, 100vh);
+  }
+}
+.rain6:nth-child(215) {
+  opacity: 0.0766;
+  transform: translate(61.7346vw, -120px) scale(0.01);
+  -webkit-animation: rain6-215 1s linear 4.7s infinite;
+          animation: rain6-215 1s linear 4.7s infinite;
+}
+@-webkit-keyframes rain6-215 {
+  to {
+    transform: translate(61.7346vw, 100vh);
+  }
+}
+@keyframes rain6-215 {
+  to {
+    transform: translate(61.7346vw, 100vh);
+  }
+}
+.rain6:nth-child(216) {
+  opacity: 0.3803;
+  transform: translate(98.6776vw, -120px) scale(0.002);
+  -webkit-animation: rain6-216 1s linear 0.2s infinite;
+          animation: rain6-216 1s linear 0.2s infinite;
+}
+@-webkit-keyframes rain6-216 {
+  to {
+    transform: translate(98.6776vw, 100vh);
+  }
+}
+@keyframes rain6-216 {
+  to {
+    transform: translate(98.6776vw, 100vh);
+  }
+}
+.rain6:nth-child(217) {
+  opacity: 0.7515;
+  transform: translate(26.0983vw, -120px) scale(0.01);
+  -webkit-animation: rain6-217 1s linear 0.5s infinite;
+          animation: rain6-217 1s linear 0.5s infinite;
+}
+@-webkit-keyframes rain6-217 {
+  to {
+    transform: translate(26.0983vw, 100vh);
+  }
+}
+@keyframes rain6-217 {
+  to {
+    transform: translate(26.0983vw, 100vh);
+  }
+}
+.rain6:nth-child(218) {
+  opacity: 0.6527;
+  transform: translate(91.302vw, -120px) scale(0.001);
+  -webkit-animation: rain6-218 1s linear 1.6s infinite;
+          animation: rain6-218 1s linear 1.6s infinite;
+}
+@-webkit-keyframes rain6-218 {
+  to {
+    transform: translate(91.302vw, 100vh);
+  }
+}
+@keyframes rain6-218 {
+  to {
+    transform: translate(91.302vw, 100vh);
+  }
+}
+.rain6:nth-child(219) {
+  opacity: 0.4413;
+  transform: translate(1.1128vw, -120px) scale(0.003);
+  -webkit-animation: rain6-219 1s linear 1.1s infinite;
+          animation: rain6-219 1s linear 1.1s infinite;
+}
+@-webkit-keyframes rain6-219 {
+  to {
+    transform: translate(1.1128vw, 100vh);
+  }
+}
+@keyframes rain6-219 {
+  to {
+    transform: translate(1.1128vw, 100vh);
+  }
+}
+.rain6:nth-child(220) {
+  opacity: 0.3085;
+  transform: translate(4.4948vw, -120px) scale(0.006);
+  -webkit-animation: rain6-220 1s linear 4s infinite;
+          animation: rain6-220 1s linear 4s infinite;
+}
+@-webkit-keyframes rain6-220 {
+  to {
+    transform: translate(4.4948vw, 100vh);
+  }
+}
+@keyframes rain6-220 {
+  to {
+    transform: translate(4.4948vw, 100vh);
+  }
+}
+.rain6:nth-child(221) {
+  opacity: 0.1851;
+  transform: translate(89.5331vw, -120px) scale(0.009);
+  -webkit-animation: rain6-221 1s linear 4.8s infinite;
+          animation: rain6-221 1s linear 4.8s infinite;
+}
+@-webkit-keyframes rain6-221 {
+  to {
+    transform: translate(89.5331vw, 100vh);
+  }
+}
+@keyframes rain6-221 {
+  to {
+    transform: translate(89.5331vw, 100vh);
+  }
+}
+.rain6:nth-child(222) {
+  opacity: 0.0097;
+  transform: translate(75.6558vw, -120px) scale(0.008);
+  -webkit-animation: rain6-222 1s linear 1.5s infinite;
+          animation: rain6-222 1s linear 1.5s infinite;
+}
+@-webkit-keyframes rain6-222 {
+  to {
+    transform: translate(75.6558vw, 100vh);
+  }
+}
+@keyframes rain6-222 {
+  to {
+    transform: translate(75.6558vw, 100vh);
+  }
+}
+.rain6:nth-child(223) {
+  opacity: 0.9644;
+  transform: translate(46.03vw, -120px) scale(0.006);
+  -webkit-animation: rain6-223 1s linear 1.2s infinite;
+          animation: rain6-223 1s linear 1.2s infinite;
+}
+@-webkit-keyframes rain6-223 {
+  to {
+    transform: translate(46.03vw, 100vh);
+  }
+}
+@keyframes rain6-223 {
+  to {
+    transform: translate(46.03vw, 100vh);
+  }
+}
+.rain6:nth-child(224) {
+  opacity: 0.0395;
+  transform: translate(42.08vw, -120px) scale(0.006);
+  -webkit-animation: rain6-224 1s linear 4.8s infinite;
+          animation: rain6-224 1s linear 4.8s infinite;
+}
+@-webkit-keyframes rain6-224 {
+  to {
+    transform: translate(42.08vw, 100vh);
+  }
+}
+@keyframes rain6-224 {
+  to {
+    transform: translate(42.08vw, 100vh);
+  }
+}
+.rain6:nth-child(225) {
+  opacity: 0.4733;
+  transform: translate(55.4972vw, -120px) scale(0.004);
+  -webkit-animation: rain6-225 1s linear 4.2s infinite;
+          animation: rain6-225 1s linear 4.2s infinite;
+}
+@-webkit-keyframes rain6-225 {
+  to {
+    transform: translate(55.4972vw, 100vh);
+  }
+}
+@keyframes rain6-225 {
+  to {
+    transform: translate(55.4972vw, 100vh);
+  }
+}
+.rain6:nth-child(226) {
+  opacity: 0.3282;
+  transform: translate(47.4216vw, -120px) scale(0.009);
+  -webkit-animation: rain6-226 1s linear 0.5s infinite;
+          animation: rain6-226 1s linear 0.5s infinite;
+}
+@-webkit-keyframes rain6-226 {
+  to {
+    transform: translate(47.4216vw, 100vh);
+  }
+}
+@keyframes rain6-226 {
+  to {
+    transform: translate(47.4216vw, 100vh);
+  }
+}
+.rain6:nth-child(227) {
+  opacity: 0.0173;
+  transform: translate(93.557vw, -120px) scale(0.006);
+  -webkit-animation: rain6-227 1s linear 0.3s infinite;
+          animation: rain6-227 1s linear 0.3s infinite;
+}
+@-webkit-keyframes rain6-227 {
+  to {
+    transform: translate(93.557vw, 100vh);
+  }
+}
+@keyframes rain6-227 {
+  to {
+    transform: translate(93.557vw, 100vh);
+  }
+}
+.rain6:nth-child(228) {
+  opacity: 0.0243;
+  transform: translate(66.8117vw, -120px) scale(0.01);
+  -webkit-animation: rain6-228 1s linear 3.6s infinite;
+          animation: rain6-228 1s linear 3.6s infinite;
+}
+@-webkit-keyframes rain6-228 {
+  to {
+    transform: translate(66.8117vw, 100vh);
+  }
+}
+@keyframes rain6-228 {
+  to {
+    transform: translate(66.8117vw, 100vh);
+  }
+}
+.rain6:nth-child(229) {
+  opacity: 0.5527;
+  transform: translate(31.3533vw, -120px) scale(0.008);
+  -webkit-animation: rain6-229 1s linear 0.8s infinite;
+          animation: rain6-229 1s linear 0.8s infinite;
+}
+@-webkit-keyframes rain6-229 {
+  to {
+    transform: translate(31.3533vw, 100vh);
+  }
+}
+@keyframes rain6-229 {
+  to {
+    transform: translate(31.3533vw, 100vh);
+  }
+}
+.rain6:nth-child(230) {
+  opacity: 0.3963;
+  transform: translate(60.9791vw, -120px) scale(0.008);
+  -webkit-animation: rain6-230 1s linear 1.4s infinite;
+          animation: rain6-230 1s linear 1.4s infinite;
+}
+@-webkit-keyframes rain6-230 {
+  to {
+    transform: translate(60.9791vw, 100vh);
+  }
+}
+@keyframes rain6-230 {
+  to {
+    transform: translate(60.9791vw, 100vh);
+  }
+}
+.rain6:nth-child(231) {
+  opacity: 0.6848;
+  transform: translate(89.9219vw, -120px) scale(0.009);
+  -webkit-animation: rain6-231 1s linear 2.2s infinite;
+          animation: rain6-231 1s linear 2.2s infinite;
+}
+@-webkit-keyframes rain6-231 {
+  to {
+    transform: translate(89.9219vw, 100vh);
+  }
+}
+@keyframes rain6-231 {
+  to {
+    transform: translate(89.9219vw, 100vh);
+  }
+}
+.rain6:nth-child(232) {
+  opacity: 0.7395;
+  transform: translate(15.1493vw, -120px) scale(0.005);
+  -webkit-animation: rain6-232 1s linear 0.7s infinite;
+          animation: rain6-232 1s linear 0.7s infinite;
+}
+@-webkit-keyframes rain6-232 {
+  to {
+    transform: translate(15.1493vw, 100vh);
+  }
+}
+@keyframes rain6-232 {
+  to {
+    transform: translate(15.1493vw, 100vh);
+  }
+}
+.rain6:nth-child(233) {
+  opacity: 0.8811;
+  transform: translate(26.2801vw, -120px) scale(0.009);
+  -webkit-animation: rain6-233 1s linear 2.2s infinite;
+          animation: rain6-233 1s linear 2.2s infinite;
+}
+@-webkit-keyframes rain6-233 {
+  to {
+    transform: translate(26.2801vw, 100vh);
+  }
+}
+@keyframes rain6-233 {
+  to {
+    transform: translate(26.2801vw, 100vh);
+  }
+}
+.rain6:nth-child(234) {
+  opacity: 0.5911;
+  transform: translate(24.8161vw, -120px) scale(0.01);
+  -webkit-animation: rain6-234 1s linear 2.1s infinite;
+          animation: rain6-234 1s linear 2.1s infinite;
+}
+@-webkit-keyframes rain6-234 {
+  to {
+    transform: translate(24.8161vw, 100vh);
+  }
+}
+@keyframes rain6-234 {
+  to {
+    transform: translate(24.8161vw, 100vh);
+  }
+}
+.rain6:nth-child(235) {
+  opacity: 0.1367;
+  transform: translate(27.2153vw, -120px) scale(0.005);
+  -webkit-animation: rain6-235 1s linear 1.9s infinite;
+          animation: rain6-235 1s linear 1.9s infinite;
+}
+@-webkit-keyframes rain6-235 {
+  to {
+    transform: translate(27.2153vw, 100vh);
+  }
+}
+@keyframes rain6-235 {
+  to {
+    transform: translate(27.2153vw, 100vh);
+  }
+}
+.rain6:nth-child(236) {
+  opacity: 0.1002;
+  transform: translate(42.7406vw, -120px) scale(0.001);
+  -webkit-animation: rain6-236 1s linear 3.2s infinite;
+          animation: rain6-236 1s linear 3.2s infinite;
+}
+@-webkit-keyframes rain6-236 {
+  to {
+    transform: translate(42.7406vw, 100vh);
+  }
+}
+@keyframes rain6-236 {
+  to {
+    transform: translate(42.7406vw, 100vh);
+  }
+}
+.rain6:nth-child(237) {
+  opacity: 0.8335;
+  transform: translate(67.8044vw, -120px) scale(0.001);
+  -webkit-animation: rain6-237 1s linear 3.3s infinite;
+          animation: rain6-237 1s linear 3.3s infinite;
+}
+@-webkit-keyframes rain6-237 {
+  to {
+    transform: translate(67.8044vw, 100vh);
+  }
+}
+@keyframes rain6-237 {
+  to {
+    transform: translate(67.8044vw, 100vh);
+  }
+}
+.rain6:nth-child(238) {
+  opacity: 0.9026;
+  transform: translate(51.2767vw, -120px) scale(0.006);
+  -webkit-animation: rain6-238 1s linear 1.3s infinite;
+          animation: rain6-238 1s linear 1.3s infinite;
+}
+@-webkit-keyframes rain6-238 {
+  to {
+    transform: translate(51.2767vw, 100vh);
+  }
+}
+@keyframes rain6-238 {
+  to {
+    transform: translate(51.2767vw, 100vh);
+  }
+}
+.rain6:nth-child(239) {
+  opacity: 0.9135;
+  transform: translate(81.4623vw, -120px) scale(0.001);
+  -webkit-animation: rain6-239 1s linear 2.1s infinite;
+          animation: rain6-239 1s linear 2.1s infinite;
+}
+@-webkit-keyframes rain6-239 {
+  to {
+    transform: translate(81.4623vw, 100vh);
+  }
+}
+@keyframes rain6-239 {
+  to {
+    transform: translate(81.4623vw, 100vh);
+  }
+}
+.rain6:nth-child(240) {
+  opacity: 0.8403;
+  transform: translate(31.499vw, -120px) scale(0.004);
+  -webkit-animation: rain6-240 1s linear 2s infinite;
+          animation: rain6-240 1s linear 2s infinite;
+}
+@-webkit-keyframes rain6-240 {
+  to {
+    transform: translate(31.499vw, 100vh);
+  }
+}
+@keyframes rain6-240 {
+  to {
+    transform: translate(31.499vw, 100vh);
+  }
+}
+.rain6:nth-child(241) {
+  opacity: 0.5483;
+  transform: translate(57.9371vw, -120px) scale(0.005);
+  -webkit-animation: rain6-241 1s linear 1.9s infinite;
+          animation: rain6-241 1s linear 1.9s infinite;
+}
+@-webkit-keyframes rain6-241 {
+  to {
+    transform: translate(57.9371vw, 100vh);
+  }
+}
+@keyframes rain6-241 {
+  to {
+    transform: translate(57.9371vw, 100vh);
+  }
+}
+.rain6:nth-child(242) {
+  opacity: 0.0302;
+  transform: translate(51.5206vw, -120px) scale(0.002);
+  -webkit-animation: rain6-242 1s linear 4.2s infinite;
+          animation: rain6-242 1s linear 4.2s infinite;
+}
+@-webkit-keyframes rain6-242 {
+  to {
+    transform: translate(51.5206vw, 100vh);
+  }
+}
+@keyframes rain6-242 {
+  to {
+    transform: translate(51.5206vw, 100vh);
+  }
+}
+.rain6:nth-child(243) {
+  opacity: 0.0104;
+  transform: translate(98.2399vw, -120px) scale(0.009);
+  -webkit-animation: rain6-243 1s linear 3.1s infinite;
+          animation: rain6-243 1s linear 3.1s infinite;
+}
+@-webkit-keyframes rain6-243 {
+  to {
+    transform: translate(98.2399vw, 100vh);
+  }
+}
+@keyframes rain6-243 {
+  to {
+    transform: translate(98.2399vw, 100vh);
+  }
+}
+.rain6:nth-child(244) {
+  opacity: 0.5911;
+  transform: translate(56.8396vw, -120px) scale(0.005);
+  -webkit-animation: rain6-244 1s linear 3.2s infinite;
+          animation: rain6-244 1s linear 3.2s infinite;
+}
+@-webkit-keyframes rain6-244 {
+  to {
+    transform: translate(56.8396vw, 100vh);
+  }
+}
+@keyframes rain6-244 {
+  to {
+    transform: translate(56.8396vw, 100vh);
+  }
+}
+.rain6:nth-child(245) {
+  opacity: 0.7146;
+  transform: translate(29.3417vw, -120px) scale(0.008);
+  -webkit-animation: rain6-245 1s linear 5s infinite;
+          animation: rain6-245 1s linear 5s infinite;
+}
+@-webkit-keyframes rain6-245 {
+  to {
+    transform: translate(29.3417vw, 100vh);
+  }
+}
+@keyframes rain6-245 {
+  to {
+    transform: translate(29.3417vw, 100vh);
+  }
+}
+.rain6:nth-child(246) {
+  opacity: 0.3843;
+  transform: translate(24.1959vw, -120px) scale(0.003);
+  -webkit-animation: rain6-246 1s linear 1.3s infinite;
+          animation: rain6-246 1s linear 1.3s infinite;
+}
+@-webkit-keyframes rain6-246 {
+  to {
+    transform: translate(24.1959vw, 100vh);
+  }
+}
+@keyframes rain6-246 {
+  to {
+    transform: translate(24.1959vw, 100vh);
+  }
+}
+.rain6:nth-child(247) {
+  opacity: 0.8884;
+  transform: translate(94.7349vw, -120px) scale(0.003);
+  -webkit-animation: rain6-247 1s linear 2.6s infinite;
+          animation: rain6-247 1s linear 2.6s infinite;
+}
+@-webkit-keyframes rain6-247 {
+  to {
+    transform: translate(94.7349vw, 100vh);
+  }
+}
+@keyframes rain6-247 {
+  to {
+    transform: translate(94.7349vw, 100vh);
+  }
+}
+.rain6:nth-child(248) {
+  opacity: 0.2999;
+  transform: translate(13.1248vw, -120px) scale(0.007);
+  -webkit-animation: rain6-248 1s linear 1.9s infinite;
+          animation: rain6-248 1s linear 1.9s infinite;
+}
+@-webkit-keyframes rain6-248 {
+  to {
+    transform: translate(13.1248vw, 100vh);
+  }
+}
+@keyframes rain6-248 {
+  to {
+    transform: translate(13.1248vw, 100vh);
+  }
+}
+.rain6:nth-child(249) {
+  opacity: 0.4324;
+  transform: translate(85.9899vw, -120px) scale(0.004);
+  -webkit-animation: rain6-249 1s linear 5s infinite;
+          animation: rain6-249 1s linear 5s infinite;
+}
+@-webkit-keyframes rain6-249 {
+  to {
+    transform: translate(85.9899vw, 100vh);
+  }
+}
+@keyframes rain6-249 {
+  to {
+    transform: translate(85.9899vw, 100vh);
+  }
+}
+.rain6:nth-child(250) {
+  opacity: 0.5705;
+  transform: translate(45.9079vw, -120px) scale(0.006);
+  -webkit-animation: rain6-250 1s linear 3.2s infinite;
+          animation: rain6-250 1s linear 3.2s infinite;
+}
+@-webkit-keyframes rain6-250 {
+  to {
+    transform: translate(45.9079vw, 100vh);
+  }
+}
+@keyframes rain6-250 {
+  to {
+    transform: translate(45.9079vw, 100vh);
+  }
+}
+.rain6:nth-child(251) {
+  opacity: 0.5838;
+  transform: translate(55.063vw, -120px) scale(0.01);
+  -webkit-animation: rain6-251 1s linear 1.8s infinite;
+          animation: rain6-251 1s linear 1.8s infinite;
+}
+@-webkit-keyframes rain6-251 {
+  to {
+    transform: translate(55.063vw, 100vh);
+  }
+}
+@keyframes rain6-251 {
+  to {
+    transform: translate(55.063vw, 100vh);
+  }
+}
+.rain6:nth-child(252) {
+  opacity: 0.2312;
+  transform: translate(96.5133vw, -120px) scale(0.009);
+  -webkit-animation: rain6-252 1s linear 3.6s infinite;
+          animation: rain6-252 1s linear 3.6s infinite;
+}
+@-webkit-keyframes rain6-252 {
+  to {
+    transform: translate(96.5133vw, 100vh);
+  }
+}
+@keyframes rain6-252 {
+  to {
+    transform: translate(96.5133vw, 100vh);
+  }
+}
+.rain6:nth-child(253) {
+  opacity: 0.1315;
+  transform: translate(68.0692vw, -120px) scale(0.006);
+  -webkit-animation: rain6-253 1s linear 0.7s infinite;
+          animation: rain6-253 1s linear 0.7s infinite;
+}
+@-webkit-keyframes rain6-253 {
+  to {
+    transform: translate(68.0692vw, 100vh);
+  }
+}
+@keyframes rain6-253 {
+  to {
+    transform: translate(68.0692vw, 100vh);
+  }
+}
+.rain6:nth-child(254) {
+  opacity: 0.7333;
+  transform: translate(71.405vw, -120px) scale(0.007);
+  -webkit-animation: rain6-254 1s linear 4.6s infinite;
+          animation: rain6-254 1s linear 4.6s infinite;
+}
+@-webkit-keyframes rain6-254 {
+  to {
+    transform: translate(71.405vw, 100vh);
+  }
+}
+@keyframes rain6-254 {
+  to {
+    transform: translate(71.405vw, 100vh);
+  }
+}
+.rain6:nth-child(255) {
+  opacity: 0.845;
+  transform: translate(62.2071vw, -120px) scale(0.004);
+  -webkit-animation: rain6-255 1s linear 4s infinite;
+          animation: rain6-255 1s linear 4s infinite;
+}
+@-webkit-keyframes rain6-255 {
+  to {
+    transform: translate(62.2071vw, 100vh);
+  }
+}
+@keyframes rain6-255 {
+  to {
+    transform: translate(62.2071vw, 100vh);
+  }
+}
+.rain6:nth-child(256) {
+  opacity: 0.2425;
+  transform: translate(89.3575vw, -120px) scale(0.004);
+  -webkit-animation: rain6-256 1s linear 2.2s infinite;
+          animation: rain6-256 1s linear 2.2s infinite;
+}
+@-webkit-keyframes rain6-256 {
+  to {
+    transform: translate(89.3575vw, 100vh);
+  }
+}
+@keyframes rain6-256 {
+  to {
+    transform: translate(89.3575vw, 100vh);
+  }
+}
+.rain6:nth-child(257) {
+  opacity: 0.1708;
+  transform: translate(92.3908vw, -120px) scale(0.01);
+  -webkit-animation: rain6-257 1s linear 3.1s infinite;
+          animation: rain6-257 1s linear 3.1s infinite;
+}
+@-webkit-keyframes rain6-257 {
+  to {
+    transform: translate(92.3908vw, 100vh);
+  }
+}
+@keyframes rain6-257 {
+  to {
+    transform: translate(92.3908vw, 100vh);
+  }
+}
+.rain6:nth-child(258) {
+  opacity: 0.8869;
+  transform: translate(72.508vw, -120px) scale(0.005);
+  -webkit-animation: rain6-258 1s linear 3s infinite;
+          animation: rain6-258 1s linear 3s infinite;
+}
+@-webkit-keyframes rain6-258 {
+  to {
+    transform: translate(72.508vw, 100vh);
+  }
+}
+@keyframes rain6-258 {
+  to {
+    transform: translate(72.508vw, 100vh);
+  }
+}
+.rain6:nth-child(259) {
+  opacity: 0.197;
+  transform: translate(11.1291vw, -120px) scale(0.01);
+  -webkit-animation: rain6-259 1s linear 4.6s infinite;
+          animation: rain6-259 1s linear 4.6s infinite;
+}
+@-webkit-keyframes rain6-259 {
+  to {
+    transform: translate(11.1291vw, 100vh);
+  }
+}
+@keyframes rain6-259 {
+  to {
+    transform: translate(11.1291vw, 100vh);
+  }
+}
+.rain6:nth-child(260) {
+  opacity: 0.1414;
+  transform: translate(21.2003vw, -120px) scale(0.005);
+  -webkit-animation: rain6-260 1s linear 0.8s infinite;
+          animation: rain6-260 1s linear 0.8s infinite;
+}
+@-webkit-keyframes rain6-260 {
+  to {
+    transform: translate(21.2003vw, 100vh);
+  }
+}
+@keyframes rain6-260 {
+  to {
+    transform: translate(21.2003vw, 100vh);
+  }
+}
+.rain6:nth-child(261) {
+  opacity: 0.0179;
+  transform: translate(21.619vw, -120px) scale(0.008);
+  -webkit-animation: rain6-261 1s linear 0.7s infinite;
+          animation: rain6-261 1s linear 0.7s infinite;
+}
+@-webkit-keyframes rain6-261 {
+  to {
+    transform: translate(21.619vw, 100vh);
+  }
+}
+@keyframes rain6-261 {
+  to {
+    transform: translate(21.619vw, 100vh);
+  }
+}
+.rain6:nth-child(262) {
+  opacity: 0.7404;
+  transform: translate(3.4754vw, -120px) scale(0.007);
+  -webkit-animation: rain6-262 1s linear 2.6s infinite;
+          animation: rain6-262 1s linear 2.6s infinite;
+}
+@-webkit-keyframes rain6-262 {
+  to {
+    transform: translate(3.4754vw, 100vh);
+  }
+}
+@keyframes rain6-262 {
+  to {
+    transform: translate(3.4754vw, 100vh);
+  }
+}
+.rain6:nth-child(263) {
+  opacity: 0.294;
+  transform: translate(68.0257vw, -120px) scale(0.006);
+  -webkit-animation: rain6-263 1s linear 1s infinite;
+          animation: rain6-263 1s linear 1s infinite;
+}
+@-webkit-keyframes rain6-263 {
+  to {
+    transform: translate(68.0257vw, 100vh);
+  }
+}
+@keyframes rain6-263 {
+  to {
+    transform: translate(68.0257vw, 100vh);
+  }
+}
+.rain6:nth-child(264) {
+  opacity: 0.8042;
+  transform: translate(22.7853vw, -120px) scale(0.008);
+  -webkit-animation: rain6-264 1s linear 1s infinite;
+          animation: rain6-264 1s linear 1s infinite;
+}
+@-webkit-keyframes rain6-264 {
+  to {
+    transform: translate(22.7853vw, 100vh);
+  }
+}
+@keyframes rain6-264 {
+  to {
+    transform: translate(22.7853vw, 100vh);
+  }
+}
+.rain6:nth-child(265) {
+  opacity: 0.0465;
+  transform: translate(21.9902vw, -120px) scale(0.008);
+  -webkit-animation: rain6-265 1s linear 1.1s infinite;
+          animation: rain6-265 1s linear 1.1s infinite;
+}
+@-webkit-keyframes rain6-265 {
+  to {
+    transform: translate(21.9902vw, 100vh);
+  }
+}
+@keyframes rain6-265 {
+  to {
+    transform: translate(21.9902vw, 100vh);
+  }
+}
+.rain6:nth-child(266) {
+  opacity: 0.6972;
+  transform: translate(98.6334vw, -120px) scale(0.01);
+  -webkit-animation: rain6-266 1s linear 0.3s infinite;
+          animation: rain6-266 1s linear 0.3s infinite;
+}
+@-webkit-keyframes rain6-266 {
+  to {
+    transform: translate(98.6334vw, 100vh);
+  }
+}
+@keyframes rain6-266 {
+  to {
+    transform: translate(98.6334vw, 100vh);
+  }
+}
+.rain6:nth-child(267) {
+  opacity: 0.0161;
+  transform: translate(51.3246vw, -120px) scale(0.001);
+  -webkit-animation: rain6-267 1s linear 4.9s infinite;
+          animation: rain6-267 1s linear 4.9s infinite;
+}
+@-webkit-keyframes rain6-267 {
+  to {
+    transform: translate(51.3246vw, 100vh);
+  }
+}
+@keyframes rain6-267 {
+  to {
+    transform: translate(51.3246vw, 100vh);
+  }
+}
+.rain6:nth-child(268) {
+  opacity: 0.3386;
+  transform: translate(81.0833vw, -120px) scale(0.006);
+  -webkit-animation: rain6-268 1s linear 2.4s infinite;
+          animation: rain6-268 1s linear 2.4s infinite;
+}
+@-webkit-keyframes rain6-268 {
+  to {
+    transform: translate(81.0833vw, 100vh);
+  }
+}
+@keyframes rain6-268 {
+  to {
+    transform: translate(81.0833vw, 100vh);
+  }
+}
+.rain6:nth-child(269) {
+  opacity: 0.5498;
+  transform: translate(52.37vw, -120px) scale(0.001);
+  -webkit-animation: rain6-269 1s linear 0.9s infinite;
+          animation: rain6-269 1s linear 0.9s infinite;
+}
+@-webkit-keyframes rain6-269 {
+  to {
+    transform: translate(52.37vw, 100vh);
+  }
+}
+@keyframes rain6-269 {
+  to {
+    transform: translate(52.37vw, 100vh);
+  }
+}
+.rain6:nth-child(270) {
+  opacity: 0.4169;
+  transform: translate(70.9452vw, -120px) scale(0.007);
+  -webkit-animation: rain6-270 1s linear 3.2s infinite;
+          animation: rain6-270 1s linear 3.2s infinite;
+}
+@-webkit-keyframes rain6-270 {
+  to {
+    transform: translate(70.9452vw, 100vh);
+  }
+}
+@keyframes rain6-270 {
+  to {
+    transform: translate(70.9452vw, 100vh);
+  }
+}
+.rain6:nth-child(271) {
+  opacity: 0.007;
+  transform: translate(34.0661vw, -120px) scale(0.01);
+  -webkit-animation: rain6-271 1s linear 4.5s infinite;
+          animation: rain6-271 1s linear 4.5s infinite;
+}
+@-webkit-keyframes rain6-271 {
+  to {
+    transform: translate(34.0661vw, 100vh);
+  }
+}
+@keyframes rain6-271 {
+  to {
+    transform: translate(34.0661vw, 100vh);
+  }
+}
+.rain6:nth-child(272) {
+  opacity: 0.2005;
+  transform: translate(3.5428vw, -120px) scale(0.001);
+  -webkit-animation: rain6-272 1s linear 2.2s infinite;
+          animation: rain6-272 1s linear 2.2s infinite;
+}
+@-webkit-keyframes rain6-272 {
+  to {
+    transform: translate(3.5428vw, 100vh);
+  }
+}
+@keyframes rain6-272 {
+  to {
+    transform: translate(3.5428vw, 100vh);
+  }
+}
+.rain6:nth-child(273) {
+  opacity: 0.0727;
+  transform: translate(71.3231vw, -120px) scale(0.002);
+  -webkit-animation: rain6-273 1s linear 0.7s infinite;
+          animation: rain6-273 1s linear 0.7s infinite;
+}
+@-webkit-keyframes rain6-273 {
+  to {
+    transform: translate(71.3231vw, 100vh);
+  }
+}
+@keyframes rain6-273 {
+  to {
+    transform: translate(71.3231vw, 100vh);
+  }
+}
+.rain6:nth-child(274) {
+  opacity: 0.9167;
+  transform: translate(94.0944vw, -120px) scale(0.001);
+  -webkit-animation: rain6-274 1s linear 0.5s infinite;
+          animation: rain6-274 1s linear 0.5s infinite;
+}
+@-webkit-keyframes rain6-274 {
+  to {
+    transform: translate(94.0944vw, 100vh);
+  }
+}
+@keyframes rain6-274 {
+  to {
+    transform: translate(94.0944vw, 100vh);
+  }
+}
+.rain6:nth-child(275) {
+  opacity: 0.6249;
+  transform: translate(23.9145vw, -120px) scale(0.005);
+  -webkit-animation: rain6-275 1s linear 4.8s infinite;
+          animation: rain6-275 1s linear 4.8s infinite;
+}
+@-webkit-keyframes rain6-275 {
+  to {
+    transform: translate(23.9145vw, 100vh);
+  }
+}
+@keyframes rain6-275 {
+  to {
+    transform: translate(23.9145vw, 100vh);
+  }
+}
+.rain6:nth-child(276) {
+  opacity: 0.6039;
+  transform: translate(41.0711vw, -120px) scale(0.003);
+  -webkit-animation: rain6-276 1s linear 1.8s infinite;
+          animation: rain6-276 1s linear 1.8s infinite;
+}
+@-webkit-keyframes rain6-276 {
+  to {
+    transform: translate(41.0711vw, 100vh);
+  }
+}
+@keyframes rain6-276 {
+  to {
+    transform: translate(41.0711vw, 100vh);
+  }
+}
+.rain6:nth-child(277) {
+  opacity: 0.3016;
+  transform: translate(76.2775vw, -120px) scale(0.002);
+  -webkit-animation: rain6-277 1s linear 3.2s infinite;
+          animation: rain6-277 1s linear 3.2s infinite;
+}
+@-webkit-keyframes rain6-277 {
+  to {
+    transform: translate(76.2775vw, 100vh);
+  }
+}
+@keyframes rain6-277 {
+  to {
+    transform: translate(76.2775vw, 100vh);
+  }
+}
+.rain6:nth-child(278) {
+  opacity: 0.4974;
+  transform: translate(63.1596vw, -120px) scale(0.006);
+  -webkit-animation: rain6-278 1s linear 2.4s infinite;
+          animation: rain6-278 1s linear 2.4s infinite;
+}
+@-webkit-keyframes rain6-278 {
+  to {
+    transform: translate(63.1596vw, 100vh);
+  }
+}
+@keyframes rain6-278 {
+  to {
+    transform: translate(63.1596vw, 100vh);
+  }
+}
+.rain6:nth-child(279) {
+  opacity: 0.4323;
+  transform: translate(78.8286vw, -120px) scale(0.007);
+  -webkit-animation: rain6-279 1s linear 4.7s infinite;
+          animation: rain6-279 1s linear 4.7s infinite;
+}
+@-webkit-keyframes rain6-279 {
+  to {
+    transform: translate(78.8286vw, 100vh);
+  }
+}
+@keyframes rain6-279 {
+  to {
+    transform: translate(78.8286vw, 100vh);
+  }
+}
+.rain6:nth-child(280) {
+  opacity: 0.0518;
+  transform: translate(39.5632vw, -120px) scale(0.006);
+  -webkit-animation: rain6-280 1s linear 3.2s infinite;
+          animation: rain6-280 1s linear 3.2s infinite;
+}
+@-webkit-keyframes rain6-280 {
+  to {
+    transform: translate(39.5632vw, 100vh);
+  }
+}
+@keyframes rain6-280 {
+  to {
+    transform: translate(39.5632vw, 100vh);
+  }
+}
+.rain6:nth-child(281) {
+  opacity: 0.5741;
+  transform: translate(59.1565vw, -120px) scale(0.009);
+  -webkit-animation: rain6-281 1s linear 2.1s infinite;
+          animation: rain6-281 1s linear 2.1s infinite;
+}
+@-webkit-keyframes rain6-281 {
+  to {
+    transform: translate(59.1565vw, 100vh);
+  }
+}
+@keyframes rain6-281 {
+  to {
+    transform: translate(59.1565vw, 100vh);
+  }
+}
+.rain6:nth-child(282) {
+  opacity: 0.6169;
+  transform: translate(35.3121vw, -120px) scale(0.008);
+  -webkit-animation: rain6-282 1s linear 3s infinite;
+          animation: rain6-282 1s linear 3s infinite;
+}
+@-webkit-keyframes rain6-282 {
+  to {
+    transform: translate(35.3121vw, 100vh);
+  }
+}
+@keyframes rain6-282 {
+  to {
+    transform: translate(35.3121vw, 100vh);
+  }
+}
+.rain6:nth-child(283) {
+  opacity: 0.2756;
+  transform: translate(8.754vw, -120px) scale(0.006);
+  -webkit-animation: rain6-283 1s linear 0.3s infinite;
+          animation: rain6-283 1s linear 0.3s infinite;
+}
+@-webkit-keyframes rain6-283 {
+  to {
+    transform: translate(8.754vw, 100vh);
+  }
+}
+@keyframes rain6-283 {
+  to {
+    transform: translate(8.754vw, 100vh);
+  }
+}
+.rain6:nth-child(284) {
+  opacity: 0.5853;
+  transform: translate(11.1584vw, -120px) scale(0.01);
+  -webkit-animation: rain6-284 1s linear 0.9s infinite;
+          animation: rain6-284 1s linear 0.9s infinite;
+}
+@-webkit-keyframes rain6-284 {
+  to {
+    transform: translate(11.1584vw, 100vh);
+  }
+}
+@keyframes rain6-284 {
+  to {
+    transform: translate(11.1584vw, 100vh);
+  }
+}
+.rain6:nth-child(285) {
+  opacity: 0.0471;
+  transform: translate(85.3352vw, -120px) scale(0.004);
+  -webkit-animation: rain6-285 1s linear 3.6s infinite;
+          animation: rain6-285 1s linear 3.6s infinite;
+}
+@-webkit-keyframes rain6-285 {
+  to {
+    transform: translate(85.3352vw, 100vh);
+  }
+}
+@keyframes rain6-285 {
+  to {
+    transform: translate(85.3352vw, 100vh);
+  }
+}
+.rain6:nth-child(286) {
+  opacity: 0.9748;
+  transform: translate(95.5118vw, -120px) scale(0.009);
+  -webkit-animation: rain6-286 1s linear 0.3s infinite;
+          animation: rain6-286 1s linear 0.3s infinite;
+}
+@-webkit-keyframes rain6-286 {
+  to {
+    transform: translate(95.5118vw, 100vh);
+  }
+}
+@keyframes rain6-286 {
+  to {
+    transform: translate(95.5118vw, 100vh);
+  }
+}
+.rain6:nth-child(287) {
+  opacity: 0.5154;
+  transform: translate(83.5388vw, -120px) scale(0.006);
+  -webkit-animation: rain6-287 1s linear 0.4s infinite;
+          animation: rain6-287 1s linear 0.4s infinite;
+}
+@-webkit-keyframes rain6-287 {
+  to {
+    transform: translate(83.5388vw, 100vh);
+  }
+}
+@keyframes rain6-287 {
+  to {
+    transform: translate(83.5388vw, 100vh);
+  }
+}
+.rain6:nth-child(288) {
+  opacity: 0.2915;
+  transform: translate(40.8417vw, -120px) scale(0.01);
+  -webkit-animation: rain6-288 1s linear 4.5s infinite;
+          animation: rain6-288 1s linear 4.5s infinite;
+}
+@-webkit-keyframes rain6-288 {
+  to {
+    transform: translate(40.8417vw, 100vh);
+  }
+}
+@keyframes rain6-288 {
+  to {
+    transform: translate(40.8417vw, 100vh);
+  }
+}
+.rain6:nth-child(289) {
+  opacity: 0.4167;
+  transform: translate(24.3649vw, -120px) scale(0.007);
+  -webkit-animation: rain6-289 1s linear 0.7s infinite;
+          animation: rain6-289 1s linear 0.7s infinite;
+}
+@-webkit-keyframes rain6-289 {
+  to {
+    transform: translate(24.3649vw, 100vh);
+  }
+}
+@keyframes rain6-289 {
+  to {
+    transform: translate(24.3649vw, 100vh);
+  }
+}
+.rain6:nth-child(290) {
+  opacity: 0.8644;
+  transform: translate(16.887vw, -120px) scale(0.001);
+  -webkit-animation: rain6-290 1s linear 1.6s infinite;
+          animation: rain6-290 1s linear 1.6s infinite;
+}
+@-webkit-keyframes rain6-290 {
+  to {
+    transform: translate(16.887vw, 100vh);
+  }
+}
+@keyframes rain6-290 {
+  to {
+    transform: translate(16.887vw, 100vh);
+  }
+}
+.rain6:nth-child(291) {
+  opacity: 0.3952;
+  transform: translate(41.5866vw, -120px) scale(0.001);
+  -webkit-animation: rain6-291 1s linear 4.8s infinite;
+          animation: rain6-291 1s linear 4.8s infinite;
+}
+@-webkit-keyframes rain6-291 {
+  to {
+    transform: translate(41.5866vw, 100vh);
+  }
+}
+@keyframes rain6-291 {
+  to {
+    transform: translate(41.5866vw, 100vh);
+  }
+}
+.rain6:nth-child(292) {
+  opacity: 0.2266;
+  transform: translate(76.5352vw, -120px) scale(0.005);
+  -webkit-animation: rain6-292 1s linear 2s infinite;
+          animation: rain6-292 1s linear 2s infinite;
+}
+@-webkit-keyframes rain6-292 {
+  to {
+    transform: translate(76.5352vw, 100vh);
+  }
+}
+@keyframes rain6-292 {
+  to {
+    transform: translate(76.5352vw, 100vh);
+  }
+}
+.rain6:nth-child(293) {
+  opacity: 0.4439;
+  transform: translate(80.3422vw, -120px) scale(0.008);
+  -webkit-animation: rain6-293 1s linear 2.2s infinite;
+          animation: rain6-293 1s linear 2.2s infinite;
+}
+@-webkit-keyframes rain6-293 {
+  to {
+    transform: translate(80.3422vw, 100vh);
+  }
+}
+@keyframes rain6-293 {
+  to {
+    transform: translate(80.3422vw, 100vh);
+  }
+}
+.rain6:nth-child(294) {
+  opacity: 0.9077;
+  transform: translate(49.0251vw, -120px) scale(0.007);
+  -webkit-animation: rain6-294 1s linear 1s infinite;
+          animation: rain6-294 1s linear 1s infinite;
+}
+@-webkit-keyframes rain6-294 {
+  to {
+    transform: translate(49.0251vw, 100vh);
+  }
+}
+@keyframes rain6-294 {
+  to {
+    transform: translate(49.0251vw, 100vh);
+  }
+}
+.rain6:nth-child(295) {
+  opacity: 0.3628;
+  transform: translate(15.0704vw, -120px) scale(0.01);
+  -webkit-animation: rain6-295 1s linear 4.3s infinite;
+          animation: rain6-295 1s linear 4.3s infinite;
+}
+@-webkit-keyframes rain6-295 {
+  to {
+    transform: translate(15.0704vw, 100vh);
+  }
+}
+@keyframes rain6-295 {
+  to {
+    transform: translate(15.0704vw, 100vh);
+  }
+}
+.rain6:nth-child(296) {
+  opacity: 0.608;
+  transform: translate(80.3546vw, -120px) scale(0.001);
+  -webkit-animation: rain6-296 1s linear 4.3s infinite;
+          animation: rain6-296 1s linear 4.3s infinite;
+}
+@-webkit-keyframes rain6-296 {
+  to {
+    transform: translate(80.3546vw, 100vh);
+  }
+}
+@keyframes rain6-296 {
+  to {
+    transform: translate(80.3546vw, 100vh);
+  }
+}
+.rain6:nth-child(297) {
+  opacity: 0.8745;
+  transform: translate(53.8507vw, -120px) scale(0.005);
+  -webkit-animation: rain6-297 1s linear 0.8s infinite;
+          animation: rain6-297 1s linear 0.8s infinite;
+}
+@-webkit-keyframes rain6-297 {
+  to {
+    transform: translate(53.8507vw, 100vh);
+  }
+}
+@keyframes rain6-297 {
+  to {
+    transform: translate(53.8507vw, 100vh);
+  }
+}
+.rain6:nth-child(298) {
+  opacity: 0.4115;
+  transform: translate(87.525vw, -120px) scale(0.003);
+  -webkit-animation: rain6-298 1s linear 1.2s infinite;
+          animation: rain6-298 1s linear 1.2s infinite;
+}
+@-webkit-keyframes rain6-298 {
+  to {
+    transform: translate(87.525vw, 100vh);
+  }
+}
+@keyframes rain6-298 {
+  to {
+    transform: translate(87.525vw, 100vh);
+  }
+}
+.rain6:nth-child(299) {
+  opacity: 0.2129;
+  transform: translate(37.2727vw, -120px) scale(0.002);
+  -webkit-animation: rain6-299 1s linear 0.5s infinite;
+          animation: rain6-299 1s linear 0.5s infinite;
+}
+@-webkit-keyframes rain6-299 {
+  to {
+    transform: translate(37.2727vw, 100vh);
+  }
+}
+@keyframes rain6-299 {
+  to {
+    transform: translate(37.2727vw, 100vh);
+  }
+}
+.rain6:nth-child(300) {
+  opacity: 0.7468;
+  transform: translate(49.272vw, -120px) scale(0.005);
+  -webkit-animation: rain6-300 1s linear 1.8s infinite;
+          animation: rain6-300 1s linear 1.8s infinite;
+}
+@-webkit-keyframes rain6-300 {
+  to {
+    transform: translate(49.272vw, 100vh);
+  }
+}
+@keyframes rain6-300 {
+  to {
+    transform: translate(49.272vw, 100vh);
+  }
+}
+.rain6:nth-child(301) {
+  opacity: 0.699;
+  transform: translate(62.2504vw, -120px) scale(0.01);
+  -webkit-animation: rain6-301 1s linear 4.1s infinite;
+          animation: rain6-301 1s linear 4.1s infinite;
+}
+@-webkit-keyframes rain6-301 {
+  to {
+    transform: translate(62.2504vw, 100vh);
+  }
+}
+@keyframes rain6-301 {
+  to {
+    transform: translate(62.2504vw, 100vh);
+  }
+}
+.rain6:nth-child(302) {
+  opacity: 0.9522;
+  transform: translate(97.0482vw, -120px) scale(0.009);
+  -webkit-animation: rain6-302 1s linear 3.7s infinite;
+          animation: rain6-302 1s linear 3.7s infinite;
+}
+@-webkit-keyframes rain6-302 {
+  to {
+    transform: translate(97.0482vw, 100vh);
+  }
+}
+@keyframes rain6-302 {
+  to {
+    transform: translate(97.0482vw, 100vh);
+  }
+}
+.rain6:nth-child(303) {
+  opacity: 0.3304;
+  transform: translate(4.7745vw, -120px) scale(0.004);
+  -webkit-animation: rain6-303 1s linear 2.5s infinite;
+          animation: rain6-303 1s linear 2.5s infinite;
+}
+@-webkit-keyframes rain6-303 {
+  to {
+    transform: translate(4.7745vw, 100vh);
+  }
+}
+@keyframes rain6-303 {
+  to {
+    transform: translate(4.7745vw, 100vh);
+  }
+}
+.rain6:nth-child(304) {
+  opacity: 0.8105;
+  transform: translate(15.3856vw, -120px) scale(0.005);
+  -webkit-animation: rain6-304 1s linear 3.9s infinite;
+          animation: rain6-304 1s linear 3.9s infinite;
+}
+@-webkit-keyframes rain6-304 {
+  to {
+    transform: translate(15.3856vw, 100vh);
+  }
+}
+@keyframes rain6-304 {
+  to {
+    transform: translate(15.3856vw, 100vh);
+  }
+}
+.rain6:nth-child(305) {
+  opacity: 0.6854;
+  transform: translate(7.7286vw, -120px) scale(0.006);
+  -webkit-animation: rain6-305 1s linear 0.8s infinite;
+          animation: rain6-305 1s linear 0.8s infinite;
+}
+@-webkit-keyframes rain6-305 {
+  to {
+    transform: translate(7.7286vw, 100vh);
+  }
+}
+@keyframes rain6-305 {
+  to {
+    transform: translate(7.7286vw, 100vh);
+  }
+}
+.rain6:nth-child(306) {
+  opacity: 0.7364;
+  transform: translate(28.2067vw, -120px) scale(0.001);
+  -webkit-animation: rain6-306 1s linear 3.9s infinite;
+          animation: rain6-306 1s linear 3.9s infinite;
+}
+@-webkit-keyframes rain6-306 {
+  to {
+    transform: translate(28.2067vw, 100vh);
+  }
+}
+@keyframes rain6-306 {
+  to {
+    transform: translate(28.2067vw, 100vh);
+  }
+}
+.rain6:nth-child(307) {
+  opacity: 0.3787;
+  transform: translate(95.9043vw, -120px) scale(0.007);
+  -webkit-animation: rain6-307 1s linear 1.5s infinite;
+          animation: rain6-307 1s linear 1.5s infinite;
+}
+@-webkit-keyframes rain6-307 {
+  to {
+    transform: translate(95.9043vw, 100vh);
+  }
+}
+@keyframes rain6-307 {
+  to {
+    transform: translate(95.9043vw, 100vh);
+  }
+}
+.rain6:nth-child(308) {
+  opacity: 0.7124;
+  transform: translate(89.4323vw, -120px) scale(0.009);
+  -webkit-animation: rain6-308 1s linear 1.9s infinite;
+          animation: rain6-308 1s linear 1.9s infinite;
+}
+@-webkit-keyframes rain6-308 {
+  to {
+    transform: translate(89.4323vw, 100vh);
+  }
+}
+@keyframes rain6-308 {
+  to {
+    transform: translate(89.4323vw, 100vh);
+  }
+}
+.rain6:nth-child(309) {
+  opacity: 0.1012;
+  transform: translate(6.7434vw, -120px) scale(0.008);
+  -webkit-animation: rain6-309 1s linear 3.7s infinite;
+          animation: rain6-309 1s linear 3.7s infinite;
+}
+@-webkit-keyframes rain6-309 {
+  to {
+    transform: translate(6.7434vw, 100vh);
+  }
+}
+@keyframes rain6-309 {
+  to {
+    transform: translate(6.7434vw, 100vh);
+  }
+}
+.rain6:nth-child(310) {
+  opacity: 0.4005;
+  transform: translate(82.5361vw, -120px) scale(0.002);
+  -webkit-animation: rain6-310 1s linear 3.4s infinite;
+          animation: rain6-310 1s linear 3.4s infinite;
+}
+@-webkit-keyframes rain6-310 {
+  to {
+    transform: translate(82.5361vw, 100vh);
+  }
+}
+@keyframes rain6-310 {
+  to {
+    transform: translate(82.5361vw, 100vh);
+  }
+}/*# sourceMappingURL=rain6.css.map */
